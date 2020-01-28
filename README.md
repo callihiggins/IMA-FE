@@ -16,7 +16,7 @@ To contact professor: on Slack @calli, email calli@nyu.edu
 
 NOTE: The preferred communication tool for this course is Slack. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
 
-Office hours are by appointment on Tuesdays and Thursdays, before or after our course. You may set up an appointment [here.](https://calendar.google.com/calendar/selfsched?sstoken=UUtmcjc1d2lnWE9xfGRlZmF1bHR8YWQyNmFhNWIxNTc3M2NiNWRmOWE2NDM1MTM0ODE5NTU)
+Office hours are by appointment only on Tuesdays and Thursdays, directly before or after our class meeting. You may set up an appointment [here.](https://calendar.google.com/calendar/selfsched?sstoken=UUtmcjc1d2lnWE9xfGRlZmF1bHR8YWQyNmFhNWIxNTc3M2NiNWRmOWE2NDM1MTM0ODE5NTU). *Please note, the appointments visually appear to be 30 minute time slots but are actually for 15 minutes. Feel free to book two if you think you need the extra time.*
 
 
 
@@ -76,9 +76,9 @@ By the end of the course, students will be able to:
 *Please note this is subject to change once students' exprience is guaged*
 
 * Week 1 (1/28 - 1/30)
-	* Introductions
-	* Web Overview
-	* Creative Inspiration
+  * Introductions
+  * Web Overview
+  * Creative Inspiration
 * Week 2 (2/4 - 2/6)
   * UX + Design
   * Intro to HTML
@@ -213,10 +213,9 @@ You can find the official academic calendar [here](https://www.nyu.edu/registrar
 **Monday, May 11** - Last day of Spring 2020 Classes
 
 
-
 ##  Additional Notes
 
-**Statement of Academic Integrity** Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else. More information can be found on [Tisch’s page regarding Academic Integrity](http://tisch.nyu.edu/faculty/academic-integ) (http://tisch.nyu.edu/faculty/academic-integ).
+**Statement of Academic Integrity** Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else. More information can be found on [Tisch’s page regarding Academic Integrity](http://tisch.nyu.edu/faculty/academic-integ).
 
 **Accessibility** Academic accommodations are available for students with documented disabilities. Please contact the Moses Center for Students with Disabilities at 212 998-4980 for further information.
 
