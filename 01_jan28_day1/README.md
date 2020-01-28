@@ -32,7 +32,7 @@
  * [25 HTML and CSS Tutorials on Codeburst](https://codeburst.io/25-html-css-tutorials-6a864f387185)
 
 3. Use ITP's pronounciation tool [Say My Name](https://stu.itp.nyu.edu/saymyname)
-4. Sign up for our class's [Slack group](](https://join.slack.com/t/imatopicsinfrontend/shared_invite/enQtOTIzOTI4Njc0NTAwLWNiNTk5ZDVkZDY5MzE0MzMyZWFkNDgwODhkYWQ2NjI1Mzk4ZjZhYzJiY2QzZGE1NGJlMmE4NWY4MDdhNjk2ZWQ))
+4. Sign up for our class's [Slack group](https://join.slack.com/t/imatopicsinfrontend/shared_invite/enQtOTIzOTI4Njc0NTAwLWNiNTk5ZDVkZDY5MzE0MzMyZWFkNDgwODhkYWQ2NjI1Mzk4ZjZhYzJiY2QzZGE1NGJlMmE4NWY4MDdhNjk2ZWQ))
 
 ### Additional Resources:
 
