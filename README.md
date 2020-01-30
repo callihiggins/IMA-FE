@@ -79,18 +79,20 @@ By the end of the course, students will be able to:
   * Introductions
   * Web Overview
   * Creative Inspiration
+  * HTML
 * Week 2 (2/4 - 2/6)
   * UX + Design
-  * Intro to HTML
-* Week 3 (2/11 - 2/13)
-  * HTML
   * CSS
-* Week 4 (2/18 - 2/20)
+* Week 3 (2/11 - 2/13)
+  * More CSS
   * Github
   * Flexbox
+* Week 4 (2/18 - 2/20)
+  * Media Queries
+  * Single Page Apps
 * Week 5 (2/25 - 2/27)
   * Midterm Project Proposals
-  * Media Queries, Single Page Apps
+  * Guest speakers
 * Week 6 (3/3 - 3/5)
   * Javascript
 * Week 7 (3/10 - 3/12)
