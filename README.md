@@ -82,14 +82,13 @@ By the end of the course, students will be able to:
   * HTML
 * Week 2 (2/4 - 2/6)
   * UX + Design
-  * CSS
 * Week 3 (2/11 - 2/13)
-  * More CSS
+  * CSS
   * Github
-  * Flexbox
 * Week 4 (2/18 - 2/20)
   * Media Queries
   * Single Page Apps
+  * Flexbox
 * Week 5 (2/25 - 2/27)
   * Midterm Project Proposals
   * Guest speakers
