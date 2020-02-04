@@ -14,21 +14,26 @@
             - [The Worst Volume Control UI in the World](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)
     - Test early and often, iterate
 - In-class assignment:
-    - Work with a partner to create a wireframe for a better Craigslist homepage
-    - Your wireframe can be hand drawn, or created with software. Some software options are:
-        - [Wireframe cc](https://wireframe.cc/)
-        - [Google Slides](https://docs.google.com/presentation/u/0/)
-        - [Draw IO](https://www.draw.io/)
-        - [Figma](https://www.figma.com/)
+    - Work with a partner to create a wireframe for a better [Craigslist homepage](https://newyork.craigslist.org/)
+    - Choose which information is available on or naivigatable to from the home page
+    - Create a diagram of your sitemap for pages that link directly from the homepage (one level deep)
+    - Create a wireframe of your homepage layout
+        - If you are using a dropdown menu, hint to what items are included (you do not need to list ALL items)
+        - Your wireframe can be hand drawn, or created with software. Some software options are:
+            - [Wireframe cc](https://wireframe.cc/)
+            - [Google Slides](https://docs.google.com/presentation/u/0/)
+            - [Creately (for diagrams)](https://creately.com/)
+            - [Draw IO](https://www.draw.io/)
+            - [Figma](https://www.figma.com/)
 
 - Homework
-    - Finish your in-class assignment. If your wireframe is hand drawn, be sure to scan it or or take a photo of it. Be prepared to present your idea in class on Thursday.
+    - Finish your in-class assignment. If your wireframe and sitemap are hand drawn, be sure to scan it or or take a photo of them. Be prepared to present your idea in class on Thursday and explain your choices.
     - Read
         - [Intro to UI Wireframing: Chapters 1-3](https://balsamiq.com/learn/courses/wireframing/)
         - [7 Psychological Principles for Better UX](https://livesession.io/blog/7-psychological-principles-for-better-ux/)
         - [4 Rules for Intuitive UX](https://learnui.design/blog/4-rules-intuitive-ux.html)
         - [5 Key Principles for New UX Designers](https://careerfoundry.com/en/blog/ux-design/5-key-principles-for-new-ux-designers/)
-        [User Experience of a Heartbreak](https://www.fastcompany.com/3036536/this-is-the-user-experience-of-a-heartbreak)
+        - [User Experience of a Heartbreak](https://www.fastcompany.com/3036536/this-is-the-user-experience-of-a-heartbreak)
     - Create a Learning Log from one (or several) of this week's readings
 
 
