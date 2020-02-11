@@ -1,0 +1,38 @@
+h1 {
+    color: #ff4d4d;
+}
+
+/*selecting a class*/
+.aquatext {
+    color: aqua;
+    font-family: "Courier New"
+}
+
+#yellowbackground{
+    background-color: greenyellow;
+}
+
+/*selecting an id*/
+#purpletext{
+    color: blueviolet;
+}
+
+#greentext{
+    color: limegreen;
+}
+
+div {
+    background-color: cadetblue;
+}
+
+span {
+    color: hotpink;
+}
+
+
+
+
+
+
+
+
