@@ -4,10 +4,12 @@
 
 * HTML Refresher
     * [Absolute vs. Relative Paths](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/)
+    * [What is the DOM?](https://css-tricks.com/dom/)
 * CSS
     * Classes vs. IDs
 	* [CSS Box Model](http://css-tricks.com/the-css-box-model/)
 	* [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
+    * [CSS Advanced Positioning](https://internetingishard.com/html-and-css/advanced-positioning/)
 
 * Exercise:
     * Take your homework from Week 1 (the make believe restaurant page) and add some css to your page.
