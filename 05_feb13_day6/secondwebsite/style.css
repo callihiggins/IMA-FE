@@ -8,16 +8,16 @@ h1 {
     font-family: "Courier New"
 }
 
-#yellowbackground{
+.yellowbackground{
     background-color: greenyellow;
 }
 
 /*selecting an id*/
-#purpletext{
+.purpletext{
     color: blueviolet;
 }
 
-#greentext{
+.greentext{
     color: limegreen;
 }
 
