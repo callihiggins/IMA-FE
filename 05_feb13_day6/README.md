@@ -6,6 +6,7 @@
     * [Inline v. Inline Block](https://alligator.io/css/display-inline-vs-inline-block/)
 * Remaining Craigslist Redesign Presentations
 * Code along- Building Google's homepage with CSS
+    * [Link to Code Pen](https://codepen.io/callihiggins/pen/rNVxgqB)
 
 * Assignment
     * Take the mockup you made with your Craigslist redesign assignment and recreate it with HTML and CSS. Don't worry about adding any interactivity such as dropdown menus or linking to any other pages. Upload your zip folder containg an html file, a css file, and any image files you used.
