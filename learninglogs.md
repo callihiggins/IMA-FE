@@ -20,4 +20,13 @@ Post to Slack in the #learning-logs channel for this course. Begin message with 
 (The tutorial you do could also be via a book—in that case, list the name of the book instead of the URL, and include the chapter and pages.)
 
 
-Learning Logs Presentaton schedule: tbd
+Learning Logs Presentaton schedule:
+* Andri & Lisha 3/3
+* Lucas & Joe 3/5
+* Allie & Jianhao 3/12
+* Grace & Sama 4/2
+* Kai & Isabelle 4/9
+* Julia & Aidan 4/16
+* Kiwi & Phillip 4/23
+* Aron & Amin 4/30
+

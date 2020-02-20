@@ -6,28 +6,27 @@
   * Introductions
   * Web Overview
   * Creative Inspiration
-* Week 2 (2/4 - 2/6)
   * HTML
+* Week 2 (2/4 - 2/6)
   * UX + Design
 * Week 3 (2/11 - 2/13)
   * CSS
-  * Flexbox
 * Week 4 (2/18 - 2/20)
+  * Media Queries
   * Github
-  * Media Queries, Single Page Apps
+  * Single Page Apps
+  * Flexbox
 * Week 5 (2/25 - 2/27)
   * Midterm Project Proposals
-  * Intro to Javascript
+  * Guest speakers
 * Week 6 (3/3 - 3/5)
   * Javascript
-  * Intro to jQuery
 * Week 7 (3/10 - 3/12)
-  * jQuery
+  * Intro to jQuery
   * Midterm Presentations
 * **Spring Break** 
 * Week 8 (3/26 - TBD) ***No class 3/24, will be rescheduled***
   * Review Javascript and jQuery
-  * Introduction to APIs
 * Week 9 (3/31 - 4/2)
   * Data with Public APIs
 * Week 10 (4/7 - 4/9)
