@@ -4,6 +4,7 @@
     * Git vs. Github
     * Sign up for a Github account
     * Download Github Desktop
+        * [Creating your first repository using GitHub Desktop](https://help.github.com/en/desktop/getting-started-with-github-desktop/creating-your-first-repository-using-github-desktop)
     * Terms to know: Repository/Repo, Commit, Push, Master
     * Github Pages (available under Settings in your Repo)
         * When you push your code for the first time from Github Desktop, make sure you uncheck "Keep this code private"
@@ -16,6 +17,7 @@
         * Respect the thumb zone
         * Make sure buttons are large enough to tap
         * Use a larger font-size, no less than 16px
+        * [Examples of Effective Mobile Website Design](https://www.impactbnd.com/examples-of-effective-mobile-website-design)
     * Media Queries in-class challenge
 
 ### Resources
