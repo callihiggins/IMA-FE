@@ -85,18 +85,17 @@ By the end of the course, students will be able to:
 * Week 3 (2/11 - 2/13)
   * CSS
 * Week 4 (2/18 - 2/20)
+  * Flexbox
   * Media Queries
   * Github
-  * Single Page Apps
-  * Flexbox
 * Week 5 (2/25 - 2/27)
   * Midterm Project Proposals
   * Guest speakers
 * Week 6 (3/3 - 3/5)
   * Javascript
 * Week 7 (3/10 - 3/12)
-  * Intro to jQuery
   * Midterm Presentations
+  * Intro to jQuery
 * **Spring Break** 
 * Week 8 (3/26 - TBD) ***No class 3/24, will be rescheduled***
   * Review Javascript and jQuery
