@@ -19,24 +19,28 @@
   * Midterm Project Proposals
   * Guest speakers
 * Week 6 (3/3 - 3/5)
-  * Javascript
+  * CSS Transitions
+  * CSS Animations
+  * Midterm workshop
 * Week 7 (3/10 - 3/12)
-  * Intro to jQuery
   * Midterm Presentations
 * **Spring Break** 
 * Week 8 (3/26 - TBD) ***No class 3/24, will be rescheduled***
-  * Review Javascript and jQuery
+  * Javascript
 * Week 9 (3/31 - 4/2)
-  * Data with Public APIs
+  * More Javascript
+  * jQuery
 * Week 10 (4/7 - 4/9)
-  * Review APIs
-  * Introduction to React
+  * Data with Public APIs
 * Week 11 (4/14 - 4/16)
-  * React
-* Week 12 (4/21 - 4/23)
+  * Review APIs
   * Final Project Proposals
-  * React + APIs
+* Week 12 (4/21 - 4/23)
+  * ES6
+  * Introduction to React
 * Week 13 (4/28 - 4/30)
   * Final Project Workshops
+* Makeup Class (5/2)
+  * OPTIONAL open workshop
 * Week 14 (5/5 - 5/7)
   * Final Project Presentations

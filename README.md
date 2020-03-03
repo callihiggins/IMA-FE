@@ -92,25 +92,28 @@ By the end of the course, students will be able to:
   * Midterm Project Proposals
   * Guest speakers
 * Week 6 (3/3 - 3/5)
-  * Javascript
+  * CSS Transitions
+  * CSS Animations
+  * Midterm workshop
 * Week 7 (3/10 - 3/12)
   * Midterm Presentations
-  * Intro to jQuery
 * **Spring Break** 
 * Week 8 (3/26 - TBD) ***No class 3/24, will be rescheduled***
-  * Review Javascript and jQuery
+  * Javascript
 * Week 9 (3/31 - 4/2)
-  * Data with Public APIs
+  * More Javascript
+  * jQuery
 * Week 10 (4/7 - 4/9)
-  * Review APIs
-  * Introduction to React
+  * Data with Public APIs
 * Week 11 (4/14 - 4/16)
-  * React
-* Week 12 (4/21 - 4/23)
+  * Review APIs
   * Final Project Proposals
-  * React + APIs
+* Week 12 (4/21 - 4/23)
+  * Introduction to React
 * Week 13 (4/28 - 4/30)
   * Final Project Workshops
+* Makeup Class (5/2)
+  * OPTIONAL open workshop
 * Week 14 (5/5 - 5/7)
   * Final Project Presentations
 
@@ -158,7 +161,7 @@ Each assignment will be marked as complete (full credit), partially complete (ha
 
 **Mid-Term Project 20%**
 
-The midterm assignment will be a project that demonstrates a working knowledge of HTML, CSS and basic Javascript. This project must be completed, published, and presented.
+The midterm assignment will be a project that demonstrates a working knowledge of website design and responsive HTML & CSS. This project must be completed, published, and presented.
 
 **Participation and Attendance 20%**
 
