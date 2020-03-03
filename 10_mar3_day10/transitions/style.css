@@ -1,0 +1,44 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.effect {
+  margin: 20px;
+}
+
+.transition-width {
+  width: 100px;
+  height: 100px;
+  background: red;
+  transition: width 2s;
+}
+  
+.transition-width:hover {
+  width: 300px;
+}
+
+.transition-width-and-height {
+  width: 100px;
+  height: 100px;
+  background: blue;
+  transition: width 2s, height 4s;
+}
+  
+.transition-width-and-height:hover {
+  width: 300px;
+  height: 300px;
+}
+
+.transition-transform {
+  width: 100px;
+  height: 100px;
+  background: purple;
+  transition: width 2s, height 2s, transform 2s;
+}
+
+.transition-transform:hover {
+  width: 300px;
+  height: 300px;
+  transform: rotate(180deg);
+}
