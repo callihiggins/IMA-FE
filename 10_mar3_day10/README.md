@@ -33,8 +33,8 @@
     * Midterm Proposal Presentation: 10 points 
     * Valid HTML and CSS: 30 points
     * Responsive Design: 20 points total
-        * 5 points for thoughtful design
-        * 5 points for Responsive HTML/CSS implementation
+        * 10 points for thoughtful design
+        * 10 points for Responsive HTML/CSS implementation
     * Overall experience: 20 points
         * Did you acheive a complete concept?
         * If you did a portfolio, do we have a cohesive idea of who you are? 
