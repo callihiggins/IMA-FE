@@ -31,7 +31,7 @@ Basic computer knowledge. Basic familiarity with any programming/scripting langu
 
 This course will provide a foundation for understanding modern web development with a focus on front end technologies and accessing public data. The forms and uses of these technologies are explored in a laboratory context of experimentation and discussion. This studio stresses interactivity, usability, and the quality and appropriateness of look and feel.
 
-Students will create two single-page web applications, including one that leverages public APIs and Javascript libraries. The goal of the course is for students to learn how to think holistically about an application, both by designing a clear user experience and understanding the algorithmic steps required to build it. Assignments are arranged in sequence to enable the production of a website of high quality in design and engineering.
+Students will create two web applications, including one that leverages public APIs and Javascript libraries. The goal of the course is for students to learn how to think holistically about an application, both by designing a clear user experience and understanding the algorithmic steps required to build it. Assignments are arranged in sequence to enable the production of a website of high quality in design and engineering.
 
 ### Program Learning Objectives
 
