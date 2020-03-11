@@ -23,7 +23,7 @@ Post to Slack in the #learning-logs channel for this course. Begin message with 
 Learning Logs Presentaton schedule:
 * Andri & Lisha 3/3
 * Lucas & Joe 3/5
-* Allie & Jianhao 3/12
+* Allie & Jianhao 3/26
 * Grace & Sama 4/2
 * Kai & Isabelle 4/9
 * Julia & Aidan 4/16

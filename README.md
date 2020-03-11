@@ -98,7 +98,7 @@ By the end of the course, students will be able to:
 * Week 7 (3/10 - 3/12)
   * Midterm Presentations
 * **Spring Break** 
-* Week 8 (3/26 - TBD) ***No class 3/24, will be rescheduled***
+* Week 8 (3/24 - 3/26)
   * Javascript
 * Week 9 (3/31 - 4/2)
   * More Javascript
@@ -112,8 +112,6 @@ By the end of the course, students will be able to:
   * Introduction to React
 * Week 13 (4/28 - 4/30)
   * Final Project Workshops
-* Makeup Class (5/2)
-  * OPTIONAL open workshop
 * Week 14 (5/5 - 5/7)
   * Final Project Presentations
 

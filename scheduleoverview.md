@@ -2,7 +2,7 @@
 
 *NOTE: Specific assignments and materials for each class session will be located in their own folder in this repository. This schedule is meant to serve as an overview of the course trajectory and is subject to change.*
 
-* Week 1 (1/28 - 1/30)
+ * Week 1 (1/28 - 1/30)
   * Introductions
   * Web Overview
   * Creative Inspiration
@@ -25,7 +25,7 @@
 * Week 7 (3/10 - 3/12)
   * Midterm Presentations
 * **Spring Break** 
-* Week 8 (3/26 - TBD) ***No class 3/24, will be rescheduled***
+* Week 8 (3/24 - 3/26)
   * Javascript
 * Week 9 (3/31 - 4/2)
   * More Javascript
@@ -36,11 +36,8 @@
   * Review APIs
   * Final Project Proposals
 * Week 12 (4/21 - 4/23)
-  * ES6
   * Introduction to React
 * Week 13 (4/28 - 4/30)
   * Final Project Workshops
-* Makeup Class (5/2)
-  * OPTIONAL open workshop
 * Week 14 (5/5 - 5/7)
   * Final Project Presentations
