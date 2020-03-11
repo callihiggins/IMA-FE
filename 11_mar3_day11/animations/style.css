@@ -1,12 +1,15 @@
-.colorfulBox {
-  width: 100px;
-  height: 100px;
+/* .colorfulBox {
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
   background-color: red;
   animation-name: animateBackgroundColor;
   animation-duration: 4s;
   animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+
   margin-bottom: 30px;
-}
+} */
 
 @keyframes animateBackgroundColor {
   from {background-color: red;}
@@ -14,16 +17,20 @@
 }
 
 .colorfulMovingBox {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   background-color: red;
   position: relative;
   animation-name: animateColorAndPosition;
-  animation-duration: 4s;
+  animation-duration: 2s;
 }
   
 @keyframes animateColorAndPosition {
-  0%   {background-color:red; left:0px; top:0px;}
+  0%   {
+    background-color:red;
+    left:0px;
+    top:0px;
+  }
   25%  {background-color:yellow; left:200px; top:0px;}
   50%  {background-color:blue; left:200px; top:200px;}
   75%  {background-color:green; left:0px; top:200px;}
