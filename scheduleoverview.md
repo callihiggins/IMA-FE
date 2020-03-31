@@ -29,14 +29,14 @@
   * Javascript
 * Week 9 (3/31 - 4/2)
   * More Javascript
-  * jQuery
+  * Javscript + Dom Manipulation
 * Week 10 (4/7 - 4/9)
-  * Data with Public APIs
+  * jQuery
 * Week 11 (4/14 - 4/16)
-  * Review APIs
+  * Data with Public APIs
   * Final Project Proposals
 * Week 12 (4/21 - 4/23)
-  * Introduction to React
+  * Review APIs
 * Week 13 (4/28 - 4/30)
   * Final Project Workshops
 * Week 14 (5/5 - 5/7)
