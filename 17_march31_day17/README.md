@@ -13,7 +13,7 @@
   * Objects
     * Key/Value pairs
     * Adding functions
-    * In-class exercise: [Bank accounts](https://eloquentjavascript.net/)
+    * In-class exercise: [Bank accounts](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md#modeling-a-bank-account)
   * Arrays
     * Arrays & Loops
     * Push, Pop, Slice
