@@ -13,6 +13,8 @@
     * Add/Remove/Toggle classList
     * createElement
     * appendChild, replaceChild, insertBefore, insertAdjacent
+  * Listening to events
+    * [DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
   * MadLibs
 
   ## Homework
