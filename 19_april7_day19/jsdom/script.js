@@ -1,3 +1,4 @@
+
 const heading = document.getElementById("title");
 
 const name = "Calli's";
@@ -15,7 +16,7 @@ inputs[1].classList.add('pink');
 const newElement = document.createElement('div')
 newElement.innerHTML = `I'm an element created on the fly`;
 newElement.style.fontSize = '24px';
-document.querySelector('p').appendChild(newElement);
+// document.querySelector('p').insertAdjacentHTML(newElement);
 
 //adding an event listener
 //addEventListner requires two parameters: the type of event, the event that is occuring (callback)
@@ -38,9 +39,14 @@ document.getElementById('submitLetter').addEventListener('click', e => {
   myFunction();
 })
 
-//include a few text boxes in HTML to grab a person's name, an adjective, and a noun
-//write a JS function that will concatenate all of the user input into a MAD LIB. Make it funny.
-// deliver the completed MAD LIB back to the user in an alert
+document.getElementById('googleLink').addEventListener('click', e => {
+  e.preventDefault();
+  console.log('you clicked the google link')
+})
+
+// //include a few text boxes in HTML to grab a person's name, an adjective, and a noun
+// //write a JS function that will concatenate all of the user input into a MAD LIB. Make it funny.
+// // deliver the completed MAD LIB back to the user in an alert
 function madLib() {
   const name = document.getElementById("myInputName").value;
   const adjective = document.getElementById("myInputAdjective").value;
@@ -51,3 +57,6 @@ function madLib() {
 document.getElementById('runMadlib').addEventListener('click', e => {
   madLib();
 })
+
+console.log('its working');
+

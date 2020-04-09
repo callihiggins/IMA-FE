@@ -29,8 +29,8 @@
   * Javascript
 * Week 9 (3/31 - 4/2)
   * More Javascript
-  * Javscript + Dom Manipulation
 * Week 10 (4/7 - 4/9)
+  * Dom Manipulation
   * jQuery
 * Week 11 (4/14 - 4/16)
   * Data with Public APIs
