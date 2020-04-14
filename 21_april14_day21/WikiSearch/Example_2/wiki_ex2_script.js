@@ -1,0 +1,41 @@
+var app = {
+	//Define the url for the wikipedia API call
+	wikiURL: "http://en.wikipedia.org/w/api.php?action=opensearch&format=json&search=",
+	//Define an intial search term
+	currentWord: "dogs",
+
+	initialize: function() {
+		app.searchWikipedia(app.currentWord);
+	},
+
+	//Define a funnction to execute the AJAX call
+	//The argument will be the desired search term
+	searchWikipedia: function(word) {
+		//Use jQuery to make the AJAX call
+		$.ajax({
+			url: app.wikiURL + word,
+			type: 'GET',
+			dataType: 'jsonp',
+			error: function(data){
+				console.log("We got problems");
+				console.log(data.status);
+			},
+			success: function(data){
+				//Check the browser console to see the returned data
+				console.log(data);
+				//Use jQuery to insert the search term into the appropriate DOM element
+				//The data we want is the first item in the returned JSON, hence value "0"
+				$("#searchTerm").html(data[0]);
+				//The data we want is the second item in the returned JSON, hence value "1"
+				//Create a var to save the array of search results 
+				var searchResults = data[1];
+				//Loop through the array of results
+				for (var i = 0; i < searchResults.length; i++){
+					var htmlString = "<p class='wikiResults'>" + searchResults[i] + "</p>";
+					//Use jQuery's append() function to add the searchResults to the DOM
+					$("#results").append(htmlString);
+				}
+			}
+		});
+	}
+}

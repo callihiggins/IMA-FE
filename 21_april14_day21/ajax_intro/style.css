@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.wrap {
+  margin: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.instructions {
+  margin-right: 50px;
+}
+
+.container {
+  display: inline-block;
+  width: 40%;
+}
+
+button {
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.listSpaceMembers {
+  background-color: salmon; 
+}
