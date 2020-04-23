@@ -1,4 +1,4 @@
-## Learning log presentations: Julia & Aiden
+## Learning log presentations: Julia & Aidan
 
 ## More APIs!
   * [Contentful](https://www.contentful.com/)
