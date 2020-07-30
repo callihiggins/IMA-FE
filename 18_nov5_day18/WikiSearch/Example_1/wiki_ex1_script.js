@@ -35,13 +35,18 @@ var app = {
 			url: app.wikiURL + word, //word is the argument passed into the function
 			type: 'GET',
 			dataType: 'jsonp',
+			success: function(data){
+				if (!data.error) {
+					app.doTheSTuff(data);
+				}
+				
+			},
 			error: function(data){
+				debugger;
 				console.log("We got problems");
 				console.log(data.status);
 			},
-			success: function(data){
-				app.doTheSTuff(data);
-			}
+
 		});
 	},
 

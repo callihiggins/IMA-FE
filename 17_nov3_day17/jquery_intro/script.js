@@ -4,7 +4,7 @@ const app = {
 
   initialize: function () {
     $('.box').click(function () {
-      $(this).toggleClass('transform')      
+      $(this).toggleClass('transform')  
     });
 
     $('.circle').dblclick(function () {
@@ -23,7 +23,8 @@ const app = {
   listBeatles: function () {
     // can also this this.data, it means the same thing. app.data is safer
     app.data.beatles.albums.forEach(album => {
-      $('.beatlesAlbums').append(`<li>${album.name}, ${album.year}`);
+      debugger;
+      $('.beatlesAlbums').append(`<li>${album.name}, ${album.year}</li>`);
     });
   },
 
@@ -31,6 +32,8 @@ const app = {
     const nirvanaMembers = app.data.nirvana.members;
     const beatlesMembers = app.data.beatles.members;
 
-    $('.bandsComparison').text(`${nirvanaMembers.length > beatlesMembers.length ? 'Nirvana' : 'Beatles'} have more members`);
+    $('.bandsComparison').text(
+      `${nirvanaMembers.length > beatlesMembers.length ? 'Nirvana' : 'Beatles'} 
+    have more members`);
   }
 }

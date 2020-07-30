@@ -1,6 +1,6 @@
 const app = {
   initialize: function () {
-    $('.listSpaceMembers').click(function () {
+    $('.listSpaceMembers').click(function (e) {
       app.fetchSpaceMembers();
     });
 
@@ -11,7 +11,11 @@ const app = {
       url: 'http://api.open-notify.org/astros.json',
       dataType: 'json',
       success: data => {
+        debugger;
         app.revealSpaceMembers(data);
+      }, 
+      error: msg => {
+        console.log(msg)
       }
     })
   },

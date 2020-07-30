@@ -11,6 +11,7 @@ const app = {
   getEntry: function(entry) {
     // fetch a particular project
     app.client.getEntry(entry).then(project => {
+      debugger;
       const projectData = {
         title: project.fields.title,
         imageUrl: `http:${project.fields.image.fields.file.url}`,

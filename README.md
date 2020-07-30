@@ -6,17 +6,17 @@
 
 **Tisch School of the Arts at New York University**
 
-**Spring 2020 – Professor Calli Higgins**
+**Fall 2020 – Professor Calli Higgins**
 
-Tuesday + Thursday 6:30 - 8pm,  370 Jay Street, Room 412
+Tuesday + Thursday 5:00 - 6:30 over Zoom (Contact me if you need to make plans for asynchronus participation)
 
-[Link to class Slack workspace](https://join.slack.com/t/imatopicsinfrontend/shared_invite/enQtOTIzOTI4Njc0NTAwLWNiNTk5ZDVkZDY5MzE0MzMyZWFkNDgwODhkYWQ2NjI1Mzk4ZjZhYzJiY2QzZGE1NGJlMmE4NWY4MDdhNjk2ZWQ)
+[Link to join our class Slack workspace](https://join.slack.com/t/ima-frontend-fall20/shared_invite/zt-g24yvptj-FZWqbkkgkxisQdMHOvp2Pw)
 
 To contact professor: on Slack @calli, email calli@nyu.edu
 
-NOTE: The preferred communication tool for this course is Slack. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
+NOTE: The preferred communication tool for this course is Slack. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet over Zoom. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
 
-Office hours are by appointment only on Tuesdays and Thursdays, directly before or after our class meeting. You may set up an appointment [here.](https://calendar.google.com/calendar/selfsched?sstoken=UUtmcjc1d2lnWE9xfGRlZmF1bHR8YWQyNmFhNWIxNTc3M2NiNWRmOWE2NDM1MTM0ODE5NTU). *Please note, the appointments visually appear to be 30 minute time slots but are actually for 15 minutes. Feel free to book two if you think you need the extra time.*
+Office hours are by appointment only. You may set up an appointment [here.](https://calendar.google.com/calendar/selfsched?sstoken=UUtmcjc1d2lnWE9xfGRlZmF1bHR8YWQyNmFhNWIxNTc3M2NiNWRmOWE2NDM1MTM0ODE5NTU). *Please note, the appointments visually appear to be 30 minute time slots but are actually for 15 minutes. Feel free to book two if you think you need the extra time.*
 
 
 
@@ -75,44 +75,44 @@ By the end of the course, students will be able to:
 ### Schedule
 *Please note this is subject to change once students' exprience is guaged*
 
-* Week 1 (1/28 - 1/30)
+* Week 1
   * Introductions
   * Web Overview
   * Creative Inspiration
   * HTML
-* Week 2 (2/4 - 2/6)
+* Week 2 
   * UX + Design
-* Week 3 (2/11 - 2/13)
+* Week 3 
   * CSS
-* Week 4 (2/18 - 2/20)
+* Week 4 
   * Flexbox
   * Media Queries
   * Github
-* Week 5 (2/25 - 2/27)
+* Week 5 
   * Midterm Project Proposals
   * Guest speakers
-* Week 6 (3/3 - 3/5)
+* Week 6 
   * CSS Transitions
   * CSS Animations
   * Midterm workshop
-* Week 7 (3/10 - 3/12)
+* Week 7 
   * Midterm Presentations
-* **Spring Break** 
-* Week 8 (3/24 - 3/26)
+* Week 8
   * Javascript
-* Week 9 (3/31 - 4/2)
+* Week 9
   * More Javascript
   * Javscript + Dom Manipulation
-* Week 10 (4/7 - 4/9)
+* Week 10
   * jQuery
-* Week 11 (4/14 - 4/16)
+* Week 11
   * Data with Public APIs
   * Final Project Proposals
-* Week 12 (4/21 - 4/23)
+* Week 12
   * Review APIs
-* Week 13 (4/28 - 4/30)
+* Week 13
+  * Intro to React
   * Final Project Workshops
-* Week 14 (5/5 - 5/7)
+* Week 14
   * Final Project Presentations
 
 

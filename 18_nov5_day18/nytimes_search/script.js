@@ -2,7 +2,6 @@
 
 var app = {
 	nyTimesArticles : [],
-	flickrData : [],
 
 	initialize: function() {
 		app.getNYTimesData();
@@ -22,7 +21,7 @@ var app = {
 		console.log("Get NY Times Data");
 		var currentSearchWord = 'apple';
 		var nyTimesURL = 'http://api.nytimes.com/svc/search/v2/articlesearch.json?q=' + currentSearchWord + '&page=0&sort=newest&api-key=';
-		var myNYKey = 'YOUR API KEY';
+		var myNYKey = 'E0Jowl0MxvI4RRWnjChL1eFDPwhbj3EE';
 		var nyTimesReqURL = nyTimesURL + myNYKey;
 		console.log(nyTimesReqURL);
 		$.ajax({
@@ -35,6 +34,7 @@ var app = {
 			},
 			success: function(data){
 				//console.log(data);
+				debugger;
 				app.nyTimesArticles = data.response.docs;
 				console.log(app.nyTimesArticles);
 				app.makeHTML();

@@ -2,11 +2,11 @@
   * Rescheduling Julia & Aidan to 4/21 (instead of 4/16)
 * jQuery questions?
 * API's!
-  * What is an API?
+  * [What is an API?](https://medium.com/@perrysetgo/what-exactly-is-an-api-69f36968a41f)
   * [AJAX with jQuery](http://learn.jquery.com/ajax/)
   * JSON
 
-* In class Exercise
+* In class Exercises
   * [HowManyPeopleAreInSpaceRightNow?](http://api.open-notify.org/astros.json)
   * [WikiSearch API](http://en.wikipedia.org/w/api.php?action=opensearch&format=json&search)
   * [NY Times API](http://developer.nytimes.com/)
