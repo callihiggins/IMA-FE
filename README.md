@@ -10,11 +10,11 @@
 
 Tuesday + Thursday 5:00 - 6:30 over Zoom (Contact me if you need to make plans for asynchronus participation)
 
-[Link to join our class Slack workspace](https://join.slack.com/t/ima-frontend-fall20/shared_invite/zt-g24yvptj-FZWqbkkgkxisQdMHOvp2Pw)
+[Link to join our Discord server](https://discord.gg/cSbRyzm)
 
-To contact professor: on Slack @calli, email calli@nyu.edu
+To contact professor: on Discord @calli, email calli@nyu.edu
 
-NOTE: The preferred communication tool for this course is Slack. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet over Zoom. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
+NOTE: The preferred communication tool for this course is Discord. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet over Zoom. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
 
 Office hours are by appointment only. You may set up an appointment [here.](https://calendar.google.com/calendar/selfsched?sstoken=UUtmcjc1d2lnWE9xfGRlZmF1bHR8YWQyNmFhNWIxNTc3M2NiNWRmOWE2NDM1MTM0ODE5NTU). *Please note, the appointments visually appear to be 30 minute time slots but are actually for 15 minutes. Feel free to book two if you think you need the extra time.*
 
