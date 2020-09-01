@@ -14,6 +14,8 @@ Tuesday + Thursday 5:00 - 6:30 over Zoom (Contact me if you need to make plans f
 
 [Link to join our Discord server](https://discord.gg/cSbRyzm)
 
+[Link to NYU Classes site](https://newclasses.nyu.edu/portal/site/39d4ca9b-0a34-4ca3-b639-5675f57cf740)
+
 To contact professor: on Discord @calli, email calli@nyu.edu
 
 NOTE: The preferred communication tool for this course is Discord. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet over Zoom. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
