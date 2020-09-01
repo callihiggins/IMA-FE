@@ -10,7 +10,7 @@
 
 Tuesday + Thursday 5:00 - 6:30 over Zoom (Contact me if you need to make plans for asynchronus participation)
 
-[Link to our Zoom meeting(https://nyu.zoom.us/s/96532783102)
+[Link to our Zoom meeting](https://nyu.zoom.us/s/96532783102)
 
 [Link to join our Discord server](https://discord.gg/cSbRyzm)
 
