@@ -36,4 +36,3 @@
 ### Additional Resources:
 
 * [Andrew Blum - What Is The Internet Really?](https://www.ted.com/talks/andrew_blum_what_is_the_internet_really)
-* [What's In An HTTP Request](http://rve.org.uk/dumprequest)
