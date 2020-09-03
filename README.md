@@ -82,11 +82,12 @@ By the end of the course, students will be able to:
 * Week 1
   * Introductions
   * Web Overview
+* Week 2 
   * Creative Inspiration
   * HTML
-* Week 2 
-  * UX + Design
+  * UX
 * Week 3 
+  * Visual Design
   * CSS
 * Week 4 
   * Flexbox
