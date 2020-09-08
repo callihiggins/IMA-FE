@@ -11,7 +11,7 @@
   * [Forms](https://htmldog.com/guides/html/beginner/forms/)
   * [HTML5 Semantics](http://diveintohtml5.info/semantics.html) 
   * [Attributes](https://www.geeksforgeeks.org/html-attributes/)
-  * [Unicode](https://home.unicode.org/basic-info/overview/]),  [HTML Charset](https://www.w3schools.com/html/html_charset.asp)
+  * [Unicode](https://home.unicode.org/basic-info/overview/),  [HTML Charset](https://www.w3schools.com/html/html_charset.asp)
   * [Inspecting the Page](https://developers.google.com/web/tools/chrome-devtools/dom/)
   
 * *In class assignment:*
