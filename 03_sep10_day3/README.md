@@ -14,7 +14,7 @@
             - [The Worst Volume Control UI in the World](https://uxdesign.cc/the-worst-volume-control-ui-in-the-world-60713dc86950)
     - Test early and often, iterate
 - In-class assignment:
-    - Work with a partner to create a wireframe for a better [Craigslist homepage](https://newyork.craigslist.org/)
+    - Work in groups of three to create a wireframe for a better [Craigslist homepage](https://newyork.craigslist.org/)
     - Choose which information is available on or naivigatable to from the home page
     - Create a diagram of your sitemap for pages that link directly from the homepage (one level deep)
     - Create a wireframe of your homepage layout
