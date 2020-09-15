@@ -1,7 +1,7 @@
 - UX Exercise
     - Discuss what you thought was wrong with Craigslist's initial design
-    - Exchange wireframes and site maps
-    - With no verbal explanation on your team's part, have the other team describe what a user journey would look like based on the site you created
+    - Present wireframes and site maps
+    - With no verbal explanation on your part, have the other team describe what a user journey would look like based on the site you created
     - Fill in the gaps on anything they got wrong. What, if anything, is confusing about your wireframes?
     - Discuss why you chose the content you included on the homepage and what you left out
     - Repeat with the other team's drawings
