@@ -26,3 +26,6 @@
     * HTML semantic tags
     * CSS box model
     * CSS alignment
+    
+* Homework:
+    * Finish your Craigslist Visual Design
