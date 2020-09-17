@@ -2,7 +2,7 @@
 
 At the end of each class period, before you leave:
 
-Post to Slack in the "#TTL" channel.
+Post to Discrod in the "#ticket-to-leave" channel.
 
 Respond to 1 or both of the following:
 
