@@ -1,5 +1,3 @@
-* Craigslist Redesign Presentations
-
 * [Today's sides](https://docs.google.com/presentation/d/1Cw5dywkMSSx6haSo7BXqiF7f5z8wzzi0cSqX2LaHoo8/edit?usp=sharing)
 
 * HTML Refresher
