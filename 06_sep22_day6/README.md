@@ -1,8 +1,8 @@
+* Craigslist Redesign Presentations
 * Review CSS Questions
     * Fonts
         * [Guide to using Google Fonts in css](https://developers.google.com/fonts/docs/getting_started)
     * [The Float Property](https://www.w3schools.com/css/css_float.asp)
-* Remaining Craigslist Redesign Presentations
 * Code along- Building Google's homepage with CSS
     * [Link to Code Pen](https://codepen.io/callihiggins/pen/rNVxgqB)
 
