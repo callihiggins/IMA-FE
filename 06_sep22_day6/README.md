@@ -4,6 +4,7 @@
         * [Guide to using Google Fonts in css](https://developers.google.com/fonts/docs/getting_started)
     * [The Float Property](https://www.w3schools.com/css/css_float.asp)
 * Code along- Building Google's homepage with CSS
+   * [Codepen link](https://codepen.io/callihiggins/pen/bGpOrZe)
 
 * Assignment
     * Due Tuesday, September 29: Take the mockup you made with your Craigslist redesign assignment and recreate it with HTML and CSS. Don't worry about adding any interactivity such as dropdown menus or linking to any other pages. Upload your zip folder containg an html file, a css file, and any image files you used to NYU classes.
