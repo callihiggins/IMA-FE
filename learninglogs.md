@@ -19,3 +19,14 @@ Post to Slack in the #learning-logs channel for this course. Begin message with 
 
 (The tutorial you do could also be via a book—in that case, list the name of the book instead of the URL, and include the chapter and pages.)
 
+# Learning Log Presentation Schedule
+
+Will 10/6
+Ying 10/13
+Apoorva 10/20
+Sydney 10/27
+Yuhuanxiao - 11/3
+Ramsey - 11/10
+Faith - 11/17
+Nina - 11/24
+
