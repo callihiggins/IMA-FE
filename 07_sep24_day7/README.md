@@ -23,6 +23,7 @@
 
 ### Resources
 
+* [Flexbox Playground](https://codepen.io/enxaneta/full/adLPwv)
 * [Flexbox Cheat Sheet](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/)
 * [CSS Tricks - Set Page Background to a Full Image](http://css-tricks.com/perfect-full-page-background-image/)
 * [Little CSS Stuff Newcomers Get Confused ABout](http://css-tricks.com/little-css-stuff-newcomers-get-confused-about/)
