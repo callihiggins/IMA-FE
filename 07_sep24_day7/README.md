@@ -1,12 +1,12 @@
 * Learning Log Presentation Schedule
-    * Andri & Lisha 3/3
-    * Lucas & Joe 3/5
-    * Allie & Jianhao 3/12
-    * Grace & Sama 4/2
-    * Kai & Isabelle 4/9
-    * Julia & Aidan 4/16
-    * Kiwi & Phillip 4/23
-    * Aron & Amin 4/30
+    * Will 10/6
+    * Ying 10/13
+    * Apoorva 10/20
+    * Sydney 10/27
+    * Yuhuanxiao - 11/3
+    * Ramsey - 11/10
+    * Faith - 11/17
+    * Nina - 11/24
 
 * Homework questions?
 
