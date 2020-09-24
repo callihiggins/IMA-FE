@@ -33,7 +33,7 @@
 
 ### Homework
 
-* Do a Learning Log on Flexbox by Thursday!
+* Do a Learning Log on Flexbox by next Thursday!
 
 * Upload your in-class assignment to NYU classes
 
