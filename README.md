@@ -91,28 +91,27 @@ By the end of the course, students will be able to:
   * CSS
 * Week 4 
   * Flexbox
+* Week 5 
   * Media Queries
   * Github
-* Week 5 
+* Week 6
   * Midterm Project Proposals
   * Guest speakers
-* Week 6 
+* Week 7 
   * CSS Transitions
   * CSS Animations
-  * Midterm workshop
-* Week 7 
-  * Midterm Presentations
 * Week 8
-  * Javascript
+  * Midterm Presentations
 * Week 9
+  * Javascript
+* Week 10
   * More Javascript
   * Javscript + Dom Manipulation
-* Week 10
-  * jQuery
 * Week 11
+  * jQuery
   * Data with Public APIs
-  * Final Project Proposals
 * Week 12
+  * Final Project Proposals
   * Review APIs
 * Week 13
   * Intro to React
@@ -210,13 +209,11 @@ Performance and attendance of the student has been such that course requirements
 
 You can find the official academic calendar [here](https://www.nyu.edu/registrar/calendars/university-academic-calendar.html#1184)
 
-**Sunday, February 9, 2020**  - Last day to drop a class and receive a refund of 100% of tuition & fees for Undergraduate, Graduate and Diploma students who are dropping classes, but will remain enrolled in at least one course. For Undergraduate, Graduate and Diploma students who 'Completely Withdraw' from ALL courses during the semester, please see the Refund Schedule for Complete Withdrawal. Last day to drop Spring 2019 classes and not receive a grade of 'W.' Last day of active waitlists. Last day to add/drop on Albert.
+**Tuesday, September 15, 2020**  - Last day to drop a class and receive a refund of 100% of tuition & fees for Undergraduate, Graduate and Diploma students who are dropping classes, but will remain enrolled in at least one course. For Undergraduate, Graduate and Diploma students who 'Completely Withdraw' from ALL courses during the semester, please see the Refund Schedule for Complete Withdrawal. Last day to drop Spring 2019 classes and not receive a grade of 'W.' Last day of active waitlists. Last day to add/drop on Albert.
 
-**Monday, March 16-22, 2020** - Spring Break
+**Monday, November 30, 2020** - Last day to use the Term Withdrawal Form to submit a spring semester term withdrawal request or submit a request to withdraw from a course. Students should consult the academic calendar of their home school for specific deadlines pertaining to course withdrawal for the term
 
-**Friday, April 2, 2020** - Last day to use the Term Withdrawal Form to submit a spring semester term withdrawal request or submit a request to withdraw from a course. Students should consult the academic calendar of their home school for specific deadlines pertaining to course withdrawal for the term
-
-**Monday, May 11** - Last day of Spring 2020 Classes
+**Sunday, December 13** - Last day of Fall 2020 Classes
 
 
 ##  Additional Notes
