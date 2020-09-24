@@ -94,27 +94,27 @@ By the end of the course, students will be able to:
 * Week 5 
   * Media Queries
   * Github
-* Week 6
   * Midterm Project Proposals
-  * Guest speakers
-* Week 7 
+* Week 6
   * CSS Transitions
   * CSS Animations
-* Week 8
+  * Guest speakers
+* Week 7
   * Midterm Presentations
-* Week 9
+* Week 8
   * Javascript
-* Week 10
+* Week 9
   * More Javascript
   * Javscript + Dom Manipulation
-* Week 11
+* Week 10
   * jQuery
+* Week 11
   * Data with Public APIs
-* Week 12
   * Final Project Proposals
+* Week 12
   * Review APIs
-* Week 13
   * Intro to React
+* Week 13
   * Final Project Workshops
 * Week 14
   * Final Project Presentations
