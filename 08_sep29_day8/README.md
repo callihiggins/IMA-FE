@@ -44,11 +44,11 @@
 
 * Upload your Media Query in-class challenge files to NYU Classes
 
-* *Due Thursday 2/27:* Take your Craigslist redesign assignment and create three breakpoints. Include one for small screens, medium screens and large screens. Push to Github and publish this on Github Pages. Submit BOTH the link to your repository and the link to where the website is hosted on NYU Classes
+* *Due Thursday 10/1:* Take your Craigslist redesign assignment and create three breakpoints. Include one for small screens, medium screens and large screens. Push to Github and publish this on Github Pages. Submit BOTH the link to your repository and the link to where the website is hosted on NYU Classes
 
 * Prepare your Midterm Proposal Presentation. This should include:
      * A concise elevator pitch: What are you making? Why? Your content should be well considered. You should be able to articulate the need for the website you will be creating. "It looks cool" is not enough of a reason.
     * A wirefame of your home page
     * A mood board of images, inspirations, color palette, etc. that demonstrate the look and feel
     * A basic sitemap
-    * REMEMBER: Your midterms are due March 10th and will be presented in class on March 10th and March 12th
+    * REMEMBER: Your midterms are due October 13th and will be presented in class on October 13th and October 15th
