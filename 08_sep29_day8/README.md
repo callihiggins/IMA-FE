@@ -38,8 +38,6 @@
 
 [Responsive Images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 
-[Progressive Enhancement](https://www.smashingmagazine.com/2009/04/progressive-enhancement-what-it-is-and-how-to-use-it/)
-
 ### Homework
 
 * Upload your Media Query in-class challenge files to NYU Classes
