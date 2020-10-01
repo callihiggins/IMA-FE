@@ -1,13 +1,5 @@
-* Learning Log Presentations
-    * Andri
-    * Lisha
 
-* Review
-    * Elements vs. Classes
-    * Multiple classes
-    * Naming conventions
-    * Device Pixel Ratio
-    * Flex on a body tag
+* Midterm Proposal Presentations
 
 * Learn
     * [Today's slides](https://docs.google.com/presentation/d/1cpkMkDLG-rB9t58p8qbGq6aWZGjLzKiP5fKVustM7nQ/edit?usp=sharing)
@@ -52,4 +44,3 @@
 
     * Do learning logs and schedule office hours if you are stuck!
     
-    * Thursday's class will be spent workshopping your midterm and addressing any outstanding questions.
