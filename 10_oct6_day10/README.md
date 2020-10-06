@@ -1,15 +1,26 @@
-* Learning Log Presentations
-    * Lucas
-    * Joe
+* Guest Speaker - Carrie Price, Lead Engineer for the New York Times
 
-* In-class midterm workshop
+* Learning Log Presentation
+    * Will
 
-### Homework
+* Learn
+    * [Today's slides](https://docs.google.com/presentation/d/1cpkMkDLG-rB9t58p8qbGq6aWZGjLzKiP5fKVustM7nQ/edit?usp=sharing)
+    * Pseudo elements
+        * [Meet the Pseudo Class Selectors](https://css-tricks.com/pseudo-class-selectors/)
+        * [Ultimate Guide to Pseudo Elements and Classes](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
+    * CSS Transitions and Animations
+        * [Transitions](https://css-tricks.com/almanac/properties/t/transition/)
+        * [Animations](https://css-tricks.com/almanac/properties/a/animation/)
 
-    * FINISH YOUR MIDTERM! 
 
-    * Midterm project is open on NYU Classes. Make sure you are clear on all submission requirements. Check and double check your work before submitting.
+* Homework
+    * Due a learning log on CSS Pesudeo Elements/Selectors, Animation or Transition
+    * Work on your midterm
 
-    * Get any questions to me BEFORE 5pm on March 9th (I will not be available for questions later than that)
+* Learning Log Ideas
+    * [CSS Clocks](https://cssanimation.rocks/clocks/)
+    * [CSS Animations for Beginners](https://thoughtbot.com/blog/css-animation-for-beginners)
+    * [CSS Animations and Pseudo Elements](https://cssanimation.rocks/pseudo-elements/)
+    * [A Whole Bunch of Amazing Stuff Pseudo Elements Can Do](https://css-tricks.com/pseudo-element-roundup/)
 
-    * On Tuesday, March 10, come to class with your midterm project completed. You will only need to present your live website and source code.
+

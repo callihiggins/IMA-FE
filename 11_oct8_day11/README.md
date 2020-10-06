@@ -1,10 +1,8 @@
 
-**Midterm Presentation Day!**
+* Guest Speaker - Natalie Raimondi, Product Designer for the New York Times
 
-**Homework**
+* In-class midterm workshop
 
-* Complete a [midterm self-assessment](../midtermselfassessment.md) and upload it to NYU classes.
+## Homework
 
-* Complete any remaining work needed based on the feedback you received in class and upload a FINAL version of your site for grading to NYU classes. 
-
-Both of these are due by 8pm on Thursday, March 12th.
+* Finish your midterm!
