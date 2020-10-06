@@ -1,12 +1,5 @@
-Intro to Javascript
+In lieu of class, take our 90 minutes of time together and read and interact with this essay, [What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/). It's interactive- have fun playing with it! **I recomended you read this on desktop**
 
-For both class and homework this week, read either:
+**Homework**
 
-[The Javascript Way](https://github.com/thejsway/thejsway) Chapters 1 - 5
-
-or
-
-[Eloquent Javascript](https://eloquentjavascript.net/)
-Complete the exercises as you go and upload a codepen link to NYU Classes
-
-We will have class over Zoom next week both Tuesday and Thursday at the regular time, EST
+Write a short response to the essay (at least 150 words) and upload to NYU classes. What's something you learned? Do you disagree with Paul Ford in any way? As undergraduate students, you are not the audience for this piece; did it still resonate with you? What did you think of the user experience of reading the essay? 

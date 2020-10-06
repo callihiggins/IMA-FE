@@ -110,13 +110,15 @@ By the end of the course, students will be able to:
   * jQuery
 * Week 11
   * Data with Public APIs
-  * Final Project Proposals
 * Week 12
   * Review APIs
-  * Intro to React
+  * Final Project Proposals
 * Week 13
-  * Final Project Workshops
+  * Intro to React
+  * Thanksgiving
 * Week 14
+  * Final Project Workshops
+* Week 15
   * Final Project Presentations
 
 

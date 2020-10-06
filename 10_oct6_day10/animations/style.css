@@ -23,6 +23,8 @@
   position: relative;
   animation-name: animateColorAndPosition;
   animation-duration: 2s;
+  animation-iteration-count: infinite;
+
 }
   
 @keyframes animateColorAndPosition {
