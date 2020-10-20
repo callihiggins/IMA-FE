@@ -1,41 +1,15 @@
-Intro to Javascript
+* How was What is Code?
 
-For both class and homework this week, read either:
+* Learning Log presentations: Apoorva
 
-[The Javascript Way](https://github.com/thejsway/thejsway) Chapters 1 - 5
-
-or
-
-[Eloquent Javascript](https://eloquentjavascript.net/)
-Complete the exercises as you go and upload a codepen link to NYU Classes
-
-We will have class over Zoom next week both Tuesday and Thursday at the regular time, EST
-
-## More Javascript!
-
-* Learning Log presentations: Jianhoa and Alison 
-
-* Review
+* Intro to Javascript
   * ES6
   * Variables
   * Conditions
   * Loops
   * Functions
 
-* New things
-  * Objects
-    * Key/Value pairs
-    * Adding functions
-    * In-class exercise: [Bank accounts](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md#modeling-a-bank-account)
-  * Arrays
-    * Arrays & Loops
-    * Push, Pop, Slice
-    * Code along: [List of Words](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md#list-of-words)
-  * Classes
+## Homework  
 
-  ## Homework
-  In [The Javascript Way](https://github.com/thejsway/thejsway)
-    * Review Chapters 6 -7 
-    * Reach Chapter 8. Complete the exercises and submit them via a code pen link as you did last week.
-
+Go through EITHER [The Javascript Way](https://github.com/thejsway/thejsway) Chapters 1 - 5 OR [Eloquent Javascript](https://eloquentjavascript.net/) Chapters 1 - 3. Complete at least one assignmnt from each section (If using the JS Way, you need to only do a lesson from Chapters 3 - 5);å
 
