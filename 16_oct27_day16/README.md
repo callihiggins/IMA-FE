@@ -1,27 +1,10 @@
-* Review
-  * Arrays
-  * Objects
-  * In class exercises: 
-    * [Sum](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md#sum-of-values)
-    * [Sum with range](https://eloquentjavascript.net/04_data.html#c_gV3XCKJAqj)
-    * [List of words](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md#list-of-words)
-
-* New things
-  * Object Oriented Programming
-    * In-class exercise: [Bank account as a class](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md#modeling-a-bank-account)
-
-
-  ## Homework
-  In [The Javascript Way](https://github.com/thejsway/thejsway)
-    * Read Chapter 9 - 10. Complete the exercises only or Chapter 9. Submit a code pen link to NYU classes.
-
-
-
+* Learning Log Presentation: Sydney
 
 * Review
-  * OOP
+  * Arrays, Objects, OOP
 
 * New things
+  * [Slides from today](https://docs.google.com/presentation/d/1UiahbsgTToZ7IXuFFS-7V7TwXvUwDM9dOGI-vxKBMoY/edit?usp=sharing)
   * Linking scripts to our HTML
   * DOM
     * [Nodes: Parent, Children, Siblings](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter13.md#web-page-structure)
