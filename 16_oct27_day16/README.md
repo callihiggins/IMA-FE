@@ -33,5 +33,5 @@
         * How many elements are inside of your first ID
         * How many elements are inside of your second ID
         * Each function should update one of the three empty divs with this information
-    * Submit a link to your GITHUB Repo for this code on NYU classes by the start of our next class Thursday, 4/9.
+    * Submit a link to your GITHUB Repo for this code on NYU classes by the start of our next class Thursday, 10/27.
 
