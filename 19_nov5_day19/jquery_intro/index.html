@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title></title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Jquery Playground</h1>
+
+    <div class="wrap">
+      <div class="instructions">
+        Click on a box to toggle transform
+      </div>
+      <div class="box1 box"></div>
+      <div class="box2 box"></div>
+      <div class="box3 box"></div>
+    </div>
+
+    <div class="wrap">
+      <div class="instructions">
+        Double click on a circle to move it
+      </div>
+      <div class="container">
+        <div class="circle circle0"></div>
+        <div class="circle circle1"></div>
+        <div class="circle circle2"></div>
+        <div class="circle circle3"></div>
+        <div class="circle circle4"></div>
+        <div class="circle circle5"></div>
+      </div>
+    </div>
+    <div class="wrap">
+      <div class="instructions">
+        <button type="button" class="listBeatles">List Beatles Albums</button>
+      </div>
+      <div class="container">
+        <ul class="beatlesAlbums"></ul>
+      </div>
+    </div>
+    <div class="wrap">
+      <div class="instructions">
+        <button type="button" class="compareBands">Who had more members,<br>Beatles or Nirvana?</button>
+      </div>
+      <div class="container">
+        <div class="bandsComparison"></div>
+      </div>
+    </div>
+
+
+
+    <!-- If using jQuery, it must be added BEFORE your own script -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <!-- If you are loading any data, it must be added BEFORE your own script -->
+    <script src="data.js"></script>
+    <!-- Lastly, my script -->
+    <script src="script.js"></script>
+    <script>
+      (function() {
+        app.initialize();
+      })();
+    </script>
+  </body>
+</html>
