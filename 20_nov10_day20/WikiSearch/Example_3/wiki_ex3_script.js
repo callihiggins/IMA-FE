@@ -32,8 +32,9 @@ var app = {
 	searchWikipedia: function(searchTerm) {
 		// https://www.mediawiki.org/w/index.php?title=API:Opensearch
 		var params = {
+			origin:  '*',
 			action: "opensearch",
-			search: word,
+			search: searchTerm,
 			format: "json"
 		};
 		// Tell the API its ok to make cross-origin requests
@@ -52,8 +53,10 @@ var app = {
 				//The data we want is the second item in the returned JSON, hence value "1"
 				//Create a var to save the array of search results 
 				var searchResults = response[1];
+				var urlResults = response[3];
 				//Loop through the array of results
 				for (var i = 0; i < searchResults.length; i++){
+			//		debugger;
 					var htmlString =	
 						`<p class='wikiResults'>
 							<a href=${urlResults[i]}>${searchResults[i]}</a>
