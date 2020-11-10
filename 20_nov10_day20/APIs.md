@@ -11,7 +11,6 @@ Open Data APIs
   * [Etsy](https://www.etsy.com/developers/documentation)
   * [Fixer Exchange Rates](http://fixer.io/)
   * [Gifts](http://developer.gifts.com/)
-  * [Sears](https://developer.sears.com/documentation/sears-apis-0)
 * Communities
   * [Facebook](https://developers.facebook.com/docs/javascript) 
   * [Github](https://developer.github.com/v3/#json-p-callbacks)

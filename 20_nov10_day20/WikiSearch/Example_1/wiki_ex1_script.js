@@ -1,71 +1,49 @@
 var app = {
 	//Define the url for the wikipedia API call
-	wikiURL: "http://en.wikipedia.org/w/api.php?action=opensearch&format=json&search=",
-
+	wikiURL: "https://en.wikipedia.org/w/api.php",
 	//Define an intial search term
 	currentWord: "dogs",
 
-	//A place to set up listeners or kick off an initial function
 	initialize: function() {
-		//Execute the Wikipedia API call function with the currentWord var as the argument
 		app.searchWikipedia(app.currentWord);
 	},
 
-	//Define a function to execute the AJAX call
+	//Define a funnction to execute the Fetch call
 	//The argument will be the desired search term
 	searchWikipedia: function(word) {
-		console.log("Executing the searchWikipedia function");
-		/*
-		Use jQuery's ajax method to get the data
+		// Another option- build the URL in a more developer friendly way
+		var params = {
+			action: "opensearch",
+			search: word,
+			format: "json"
+		};
+		// Tell the API its ok to make cross-origin requests
+		let url = app.wikiURL + "?origin=*";
 
-		The jQuery ajax method can accept an object as its argument
-			$.ajax(objectGoesHere)
+		//Turn the params object into a string of key/value pairs
+		Object.keys(params).forEach(function(key){url += "&" + key + "=" + params[key];});
 
-		In the example below, we define/pass-in an object that has 5 properties
-			- url
-			- type
-			- dataType
-			- error
-			- success
-		See the jQuery documentation for a full list of acceptable properties
-		http://api.jquery.com/jquery.ajax/
-
-		*/
-		$.ajax({
-			url: app.wikiURL + word, //word is the argument passed into the function
-			type: 'GET',
-			dataType: 'jsonp',
-			success: function(data){
-				if (!data.error) {
-					app.doTheSTuff(data);
-				}
-				
-			},
-			error: function(data){
-				debugger;
-				console.log("We got problems");
-				console.log(data.status);
-			},
-
+		fetch(url)
+		.then(function(response){return response.json();})
+		.then(function(response) {
+			//Check the browser console to see the returned data
+			console.log(response);
+			//Use jQuery to insert the search term into the appropriate DOM element
+			//The data we want is the first item in the returned JSON, hence value "0"
+			$("#searchTerm").html(response[0]);
+			//The data we want is the second item in the returned JSON, hence value "1"
+			//Create a var to save the array of search results 
+			var searchResults = response[1];
+			//Loop through the array of results
+			for (var i = 0; i < searchResults.length; i++){
+				var htmlString = `<p class='wikiResults'>${searchResults[i]}</p>`;
+				//Use jQuery's append() function to add the searchResults to the DOM
+				$("#results").append(htmlString);
+			}
+		})
+		.catch(function(error){
+			console.log("We got problems");
+			console.log(error);
 		});
-	},
-
-	doTheSTuff: function(data) {
-		//Check the browser console to see the returned data
-		console.log(data);
-		//Use jQuery to insert the search term into the appropriate DOM element
-		//The data we want is the first item in the returned JSON, hence value "0"
-		$("#searchTerm").html(data[0]);
-		//Create a var to save the array of search results 
-		//The data we want is the second item in the returned JSON, hence value "1"
-		var searchResults = data[1];
-		//Loop through our array of results
-		for (var i = 0; i < searchResults.length; i++){
-			//Create an html string with a tag, class, and the search result
-			var htmlString = "<p class='wikiResults'>" + searchResults[i] + "</p>";
-			//Use jQuery's append() function to add the searchResults to the DOM
-			$("#results").append(htmlString);
-		}
 	}
 };
-
