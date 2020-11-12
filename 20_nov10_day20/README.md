@@ -16,6 +16,4 @@
 
 ## Homework
 
-* *Due Tuesday, November 17*: Create a single web page that uses fetch to load and display data from one of The New York Times APIs. Your page should also include at least one form of "user interaction". Upload to NYU classes via a Github link.
-
 * *For Thursday, November 19*: Prepare a presesntation for your Final Project idea. Your presentation should be shareable as a PDF and include a moodboard, site map, and wireframes. The final assignment is similar to the midterm in that you are expected to have a complete idea and a reason for why you want to make this. You are responsible for making a web application that is thoughtfully designed and built for a responsive experience and utitlizes at least one API to populate data or introduce a service to your app. This API can be from a content management system (CMS) powering a personal portfolio. You are allowed to continue work on your midterm project (but I expect to see a significant update) or pivot to a new idea. 
