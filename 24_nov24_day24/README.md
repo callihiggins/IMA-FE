@@ -1,20 +1,12 @@
 ## Learning log presentations: Kiwi & Phillip
-  * Amin- *4/28* 
+  * Nina
 
 ## More APIs!
   * [Spotify](https://developer.spotify.com/)
 
-## Intro to React
-  * [React](https://reactjs.org/)
-    * [Create React App](https://github.com/facebook/create-react-app)
-
-## Resources
-  * [Getting started with React](https://www.taniarascia.com/getting-started-with-react/)
-  * [Hello World](https://codepen.io/gaearon/pen/zKRGpo)
 
 ## Homework
 
-Have you done all 10 learning logs? Are you caught up on all your assignments? Now is the time!
+Have you done all 10 learning logs? Are you caught up on all your assignments? Now is the time! Continue to work on your assignment and be prepared to attend at least one office hour zession next week (available times will be posted in Discord)
 
-Work on your final projects! Resolve to have your data pulled out from your API and injected in your HTML by the end of the weekend.
 
