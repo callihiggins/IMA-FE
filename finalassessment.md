@@ -3,7 +3,7 @@ Reflection is studying your own practice as seriously as you study anything. It 
 
 You have made it to the end of the semester! Think of where you began in September. What did you know? What did you hope to learn? Now revisit your midterm assessment to evaluate your progress from then until now. 
 
-For your final project you will once again synthesis what you have noticed in your notes, assignments, projects, learning logs, and previous assessment with regard to your learning. Each self assessment should have a minimum of three citations. Write a narrative midterm self-evaluation that is a minimum of 2 paragraphs. (You certainly may write more.)
+For your final project you will once again synthesis what you have noticed in your notes, assignments, projects, learning logs, and previous assessment with regard to your learning. Write a narrative midterm self-evaluation that is a minimum of 2 paragraphs. (You certainly may write more.)
 
 In this narrative, address the following:
 
