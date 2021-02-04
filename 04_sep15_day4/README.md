@@ -12,6 +12,7 @@
     - Grids and layout
         - [Grid Theory](https://www.creativebloq.com/web-design/grid-theory-41411345)
         - [Balanced Page Layouts](https://www.creativebloq.com/netmag/create-balanced-page-layouts-7-pro-tips-121310009)
+        - [Applying Whitespace](https://uxdesign.cc/whitespace-in-ui-design-44e332c8e4a)
     - Hierarchy
         - [Design Principles for Visual Hierarchy](https://uxdesign.cc/design-principles-an-introduction-to-visual-hierarchy-902d58e1c7b3)
     - Color Palettes
