@@ -8,20 +8,19 @@
 
 **Fall 2020 – Professor Calli Higgins**
 
-Tuesday + Thursday 5:00 - 6:30 over Zoom (Contact me if you need to make plans for asynchronus participation)
+Tuesday + Thursday 5:05 - 6:35 at IMA, Room 412
 
-[Link to our Zoom meeting](https://nyu.zoom.us/s/96532783102)
+[Link to Zoom meeting](https://nyu.zoom.us/s/96532783102)
 
-[Link to join our Discord server](https://discord.gg/cSbRyzm)
+[Link to join our Discord server](https://discord.gg/b8bJzCqy)
 
 [Link to NYU Classes site](https://newclasses.nyu.edu/portal/site/39d4ca9b-0a34-4ca3-b639-5675f57cf740)
 
 To contact professor: on Discord @calli, email calli@nyu.edu
 
-NOTE: The preferred communication tool for this course is Discord. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet over Zoom. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
+NOTE: The preferred communication tool for this course is Discord. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet for office hours. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
 
 Office hours are by appointment only. You may set up an appointment [here.](https://calendar.google.com/calendar/selfsched?sstoken=UUtmcjc1d2lnWE9xfGRlZmF1bHR8YWQyNmFhNWIxNTc3M2NiNWRmOWE2NDM1MTM0ODE5NTU). *Please note, the appointments visually appear to be 30 minute time slots but are actually for 15 minutes. Feel free to book two if you think you need the extra time.*
-
 
 
 ## A note about this syllabus
@@ -213,9 +212,9 @@ You can find the official academic calendar [here](https://www.nyu.edu/registrar
 
 **Tuesday, September 15, 2020**  - Last day to drop a class and receive a refund of 100% of tuition & fees for Undergraduate, Graduate and Diploma students who are dropping classes, but will remain enrolled in at least one course. For Undergraduate, Graduate and Diploma students who 'Completely Withdraw' from ALL courses during the semester, please see the Refund Schedule for Complete Withdrawal. Last day to drop Spring 2019 classes and not receive a grade of 'W.' Last day of active waitlists. Last day to add/drop on Albert.
 
-**Monday, November 30, 2020** - Last day to use the Term Withdrawal Form to submit a spring semester term withdrawal request or submit a request to withdraw from a course. Students should consult the academic calendar of their home school for specific deadlines pertaining to course withdrawal for the term
+**Monday, December 6, 2020** - Last day to use the Term Withdrawal Form to submit a spring semester term withdrawal request or submit a request to withdraw from a course. Students should consult the academic calendar of their home school for specific deadlines pertaining to course withdrawal for the term
 
-**Sunday, December 13** - Last day of Fall 2020 Classes
+**Tuesday, December 14** - Last day of Fall 2020 Classes
 
 
 ##  Additional Notes

@@ -13,6 +13,7 @@ var app = {
 		var secret = '7abe06724e1c451e92e97e96b72ad7cc';
 		//this base encodes your id and secret to pass to the spotify server
 		var encoded = btoa(id + ':' + secret);
+		debugger;
 		$.ajax(
 		  {
 		    method: "POST",
@@ -25,7 +26,8 @@ var app = {
 		    },
 		    success: function(result) {
 					//after I get my access token, I use it to search for a spotify track
-		    	app.searchTracks(result.access_token)
+					app.searchTracks(result.access_token)
+					debugger;
 		    },
 		  }
 		);
@@ -43,6 +45,7 @@ var app = {
 					"Authorization": "Bearer " + token
 				},
         success: function(data) {
+					debugger;
             var trackName = data.name;
 
 

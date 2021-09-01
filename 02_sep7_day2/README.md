@@ -15,8 +15,7 @@
   * [Inspecting the Page](https://developers.google.com/web/tools/chrome-devtools/dom/)
   
 * *In class assignment:*
-Join Glitch and remix our [Restaurant Assignment](https://glitch.com/edit/#!/ima-fe-restaurant-assignment?path=index.html%3A1%3A0)
-Add HTML to the Glitch that includes:
+Using an online code editor of your choosing (such as Glitch, Codepen, CodeSandbox), create an index.html file and add the follwing:
   * A DOCTYPE tag
   * An html tag
   * A head
@@ -25,7 +24,7 @@ Add HTML to the Glitch that includes:
   * In the body, add a large heading that acts as a headline that declares your favorite restaurant
   * Below this large heading, add a smaller sub-heading that tells the user a bold statement about this restaurant
   * Include *sensational* paragraph text that tells a fictional 3-4 sentence story about this restaurant.
-  * Add a ridiculous image of a food item that this restaurant sells. Note, you will either need to find an image on the internet and link to its url or upload it to the Glitch roject.
+  * Add a ridiculous image of a food item that this restaurant sells. Note, you will either need to find an image on the internet and link to its url or upload it to the project.
   * Somewhere on the page, include a link to an external website. Make sure that link opens in a new tab or window. Bonus: Embed that link in the image.
 
 ### Homework
@@ -44,6 +43,6 @@ Add HTML to the Glitch that includes:
 
 *Download* a code editor of your choice (Visual Studio Code, Atom, Brackets.io, etc)
 
-*Assignment*: Using [this as an example](https://codepen.io/callihiggins/pen/jOEjrPQ), add a Nav bar to your page that makes sense with the context of your restuarant's page. At the moment, it will just look like a bulleted list- thats ok! We'll make it look like a nav bar next week with css. Turn in the link to your Glitch via NYU Classes.
+*Assignment*: Using [this as an example](https://codepen.io/callihiggins/pen/jOEjrPQ), add a Nav bar to your page that makes sense with the context of your restuarant's page. At the moment, it will just look like a bulleted list- thats ok! We'll make it look like a nav bar next week with css. Turn in the link to your online sandbox via NYU Classes.
 
 Have you done an intro to HTML learning log yet? If not, now is a great time to get your feet wet with basic tags. The [day1 folder](https://github.com/IDMNYU/DM-UY-2193-B/tree/master/01_jan29_day1) has some suggestions, but feel free to find your own.

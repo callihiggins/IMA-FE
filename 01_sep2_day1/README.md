@@ -30,7 +30,7 @@
 * [Mozilla - Getting Started with CSS Tutorials Parts 1-14](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started)
 * [25 HTML and CSS Tutorials on Codeburst](https://codeburst.io/25-html-css-tutorials-6a864f387185)
 3. Use ITP's pronounciation tool [Say My Name](https://stu.itp.nyu.edu/saymyname)
-4. Sign up for our class's [Discord group](https://discord.gg/cSbRyzm)
+4. Sign up for our class's [Discord group](https://discord.gg/b8bJzCqy)
 
 ### Additional Resources:
 
