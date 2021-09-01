@@ -6,7 +6,7 @@
 
 **Tisch School of the Arts at New York University**
 
-**Fall 2020 – Professor Calli Higgins**
+**Fall 2021 – Professor Calli Higgins, GA Mingxi Xu**
 
 Tuesday + Thursday 5:05 - 6:35 at IMA, Room 412
 
@@ -17,6 +17,8 @@ Tuesday + Thursday 5:05 - 6:35 at IMA, Room 412
 [Link to NYU Classes site](https://newclasses.nyu.edu/portal/site/39d4ca9b-0a34-4ca3-b639-5675f57cf740)
 
 To contact professor: on Discord @calli, email calli@nyu.edu
+
+To contact our GA, Migxi: on Discord @Mingxi, email mx657@nyu.edu
 
 NOTE: The preferred communication tool for this course is Discord. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet for office hours. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
 
