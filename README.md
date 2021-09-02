@@ -14,7 +14,7 @@ Tuesday + Thursday 5:05 - 6:35 at IMA, Room 412
 
 [Link to join our Discord server](https://discord.gg/b8bJzCqy)
 
-[Link to NYU Classes site](https://newclasses.nyu.edu/portal/site/39d4ca9b-0a34-4ca3-b639-5675f57cf740)
+[Link to NYU Brightspace site](https://brightspace.nyu.edu/d2l/le/lessons/134679/units/5767057)
 
 To contact professor: on Discord @calli, email calli@nyu.edu
 
