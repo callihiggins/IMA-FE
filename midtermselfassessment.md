@@ -16,4 +16,4 @@ Do 2 things with this narrative:
 
     1) Save it to your computer for you to reflect upon at the end of the semester.
 
-    2) Copy/paste your text into the text box provided on the Midterm Assessment assignment on NYU Classes.
+    2) Copy/paste your text into the text box provided on the Midterm Assessment assignment on Brightspace.

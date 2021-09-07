@@ -11,7 +11,7 @@
 
 * Finish your midterm!
 
-The sumission is open on NYU classes. Remember to submit a link to BOTH your Github Repo and your project's Github Pages page.
+The sumission is open on Brightspace. Remember to submit a link to BOTH your Github Repo and your project's Github Pages page.
 
 As a reminder, your grade is determined by:
 

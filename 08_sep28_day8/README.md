@@ -40,9 +40,9 @@
 
 ### Homework
 
-* Upload your Media Query in-class challenge files to NYU Classes
+* Upload your Media Query in-class challenge files to Brightspace
 
-* *Due Tuesday 10/6:* Take your Craigslist redesign assignment and create three breakpoints. Include one for small screens, medium screens and large screens. Push to Github and publish this on Github Pages. Submit BOTH the link to your repository and Github Pages link on NYU Classes
+* *Due Tuesday 10/6:* Take your Craigslist redesign assignment and create three breakpoints. Include one for small screens, medium screens and large screens. Push to Github and publish this on Github Pages. Submit BOTH the link to your repository and Github Pages link on Brightspace
 
 * Prepare your Midterm Proposal Presentation for Thursday, 10/1. This should include:
      * A concise elevator pitch: What are you making? Why? Your content should be well considered. You should be able to articulate the need for the website you will be creating. "It looks cool" is not enough of a reason.

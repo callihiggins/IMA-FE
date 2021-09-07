@@ -9,7 +9,7 @@ Work with a partner in a breakout room to do the following:
   * Use Fetch to get data that populates your html
   * Give that HTML some CSS
   * Make sure you both leave class with a copy of your code. If you didn't finish, complete the assignment for homework (feel free to finish it on your own or continue to work together).
-  * Each of you should upload to NYU classes via a Github link.
+  * Each of you should upload to Brightspace via a Github link.
 
 ## Homework
   * Finish your in-class assignment, if neccessary

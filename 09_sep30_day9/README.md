@@ -19,7 +19,7 @@
 
     * Remember you need 10 Learning Logs completed by the end of the semester. At this point you should have about 5.
     
-    * Double check and make sure you have turned in all assignments on NYU Classes and have addressed any comments requesting resubmission. 
+    * Double check and make sure you have turned in all assignments on Brightspace and have addressed any comments requesting resubmission. 
 
     * Do learning logs and schedule office hours if you are stuck!
     

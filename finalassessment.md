@@ -17,7 +17,7 @@ In this narrative, address the following:
     
 Once you are finished:
     
-    1) Copy/paste your text into the text box provided on the Final Assessment assignment on NYU Classes.
+    1) Copy/paste your text into the text box provided on the Final Assessment assignment on Brightspace.
     
     2) Find someone to give you a high five because you finished the semester strong!
     

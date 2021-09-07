@@ -27,6 +27,6 @@ Your project will be considered complete if you have completed the following:
     * Valid Jacascript, HTML and Responsive CSS: 30 points
     * Interaction with an API: 25 points
 
-* NOTE: Projects must be pushed to Github/Github Pages. They must be submitted via a link in NYU Classes alongside your Presentation Materials (moodboard, wireframe, sitemap) by Deceber 9, regardless of the day you are scheduled to present.
+* NOTE: Projects must be pushed to Github/Github Pages. They must be submitted via a link in Brightspace alongside your Presentation Materials (moodboard, wireframe, sitemap) by Deceber 9, regardless of the day you are scheduled to present.
 
 Final Presentations: Think of this like a pitch for your idea. In your presentation, you should a) tell us what you made and WHY it was necessary you make it, b) demo your website, c) highlight key features in your code. You should show any supporting materials necessary to tell a story about why this site needed to be built. 

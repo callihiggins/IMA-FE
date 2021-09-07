@@ -33,7 +33,7 @@
       * Hint: [CSS Loader](https://www.w3schools.com/howto/howto_css_loader.asp)
     * After 3 seconds have passed, the spinner should be replaced with text that says "Thanks for signing up!"
       * Hint: [Set timeout](https://www.w3schools.com/jsref/met_win_settimeout.asp)
-    * When you're finished, upload to NYU Classes
+    * When you're finished, upload to Brightspace
 
 
 

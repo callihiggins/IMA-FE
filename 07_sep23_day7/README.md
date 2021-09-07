@@ -36,7 +36,7 @@
 
 * Do a Learning Log on Flexbox by next Thursday!
 
-* Upload your in-class assignment to NYU classes
+* Upload your in-class assignment to Brightspace
 
 * Finish creating the HTML and CSS for your Craigslist Homepage. Try to take advantage of Flexbox.
 

@@ -7,7 +7,7 @@
    * [Codepen link](https://codepen.io/callihiggins/pen/bGpOrZe)
 
 * Assignment
-    * Due Tuesday, September 29: Take the mockup you made with your Craigslist redesign assignment and recreate it with HTML and CSS. Don't worry about adding any interactivity such as dropdown menus or linking to any other pages. Upload your zip folder containg an html file, a css file, and any image files you used to NYU classes.
+    * Due Tuesday, September 29: Take the mockup you made with your Craigslist redesign assignment and recreate it with HTML and CSS. Don't worry about adding any interactivity such as dropdown menus or linking to any other pages. Upload your zip folder containg an html file, a css file, and any image files you used to Brightspace.
 
 * Learning Log suggestions for this week:
     * [CSS box model](https://css-tricks.com/the-css-box-model/)
