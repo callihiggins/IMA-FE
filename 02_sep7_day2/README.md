@@ -35,7 +35,7 @@ Using an online code editor of your choosing (such as Glitch, Codepen, CodeSandb
 * [Don't Fear the Internet pt 4](http://www.dontfeartheinternet.com/04-from-scratch/) Note: the text editors mentioned in this are outdated
 
 *Review:*
-* [HTML Boilerplate](https://github.com/callihiggins/IMA-FE/tree/master/02_sep8_day2/HTML_Boilerplate)
+* [HTML Boilerplate](https://github.com/callihiggins/IMA-FE/tree/master/02_sep7_day2/HTML_Boilerplate)
 * [HTML5 Element List](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/HTML5_element_list)	
 * [HTML5 Semantics](http://diveintohtml5.info/semantics.html) 
 * [Why Use Semantic HTML?](https://css-tricks.com/why-how-and-when-to-use-semantic-html-and-aria/)
