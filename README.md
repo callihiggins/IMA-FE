@@ -18,7 +18,7 @@ Tuesday + Thursday 5:05 - 6:35 at IMA, Room 412
 
 To contact professor: on Discord @calli, email calli@nyu.edu
 
-To contact our GA, Migxi: on Discord @Mingxi, email mx657@nyu.edu
+To contact our GA, Mingxi: on Discord @Mingxi, email mx657@nyu.edu
 
 NOTE: The preferred communication tool for this course is Discord. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet for office hours. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
 
