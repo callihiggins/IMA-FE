@@ -1,4 +1,10 @@
-- Any HTML questions?
+- HTML Review
+  * [Meta tags](https://www.w3schools.com/tags/tag_meta.asp)
+    * [Viewport Tag](https://www.w3schools.com/css/css_rwd_viewport.asp)
+  * [HTML5 Semantics](http://diveintohtml5.info/semantics.html) 
+  * [Attributes](https://www.geeksforgeeks.org/html-attributes/)
+  * [Unicode](https://home.unicode.org/basic-info/overview/),  [HTML Charset](https://www.w3schools.com/html/html_charset.asp)
+  * [Inspecting the Page](https://developers.google.com/web/tools/chrome-devtools/dom/)
 - Principles of UX: [Today's slides](https://docs.google.com/presentation/d/1DzwlTWRKQWH92bQHWUIbns5OhnsdlsWGrIVbrArr2D0/edit?usp=sharing)
     - Organize your content into a hierarchical structure (aka, Information Architecture) to reduce complexity
     - Wireframing
@@ -27,7 +33,7 @@
             - [Figma](https://www.figma.com/)
 
 - Homework
-    - Finish your in-class assignment. If your wireframe and sitemap are hand drawn, be sure to scan it or or take a photo of them. Be prepared to present your idea in class on Thursday and explain your choices.
+    - Finish your in-class assignment. If your wireframe and sitemap are hand drawn, be sure to scan it or or take a photo of them. Be prepared to present your idea in class on Tuesday and explain your choices.
     - Read
         - [Intro to UI Wireframing: Chapters 1-3](https://balsamiq.com/learn/courses/wireframing/)
         - [7 Psychological Principles for Better UX](https://livesession.io/blog/7-psychological-principles-for-better-ux/)
