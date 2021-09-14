@@ -25,7 +25,7 @@
 
 - Inspiration:
     - [How to be inspired without copying someone's work](https://getflywheel.com/layout/how-to-be-inspired-without-copying-someones-work/)
-    - [2019 Design Trends](https://uxdesign.cc/ux-design-trends-retrospective-2019-8a3daaa61c62)
+    - [Recent Design Trends](https://uxdesign.cc/ux-design-trends-retrospective-2019-8a3daaa61c62)
     - [33 Amazing Flat Design Websites for your Inspiration](http://crazypixels.net/33-amazing-flat-design-websites-for-your-inspiration/)
 
 
