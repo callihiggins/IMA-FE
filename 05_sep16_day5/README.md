@@ -34,4 +34,5 @@
     * CSS alignment
     
 * Homework:
-    * Finish your Craigslist Visual Design
+    * Finish your in-class exercise and post to Brightspace
+    * Make sure you've done at least one learning log this week

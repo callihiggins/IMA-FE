@@ -47,7 +47,7 @@
 - Assignment:
     - Read through the links posted above in the class outline
     - Starting with the wireframe you already created with your partner, individually make a mock up of your Craigslist homepage redesign complete with all visual design. Please use software to generate your mockup as a jpg, pdf, or png (several options are posted above but you may use anything you like)
-    - Post your mockup file to Brightspace along with your Wireframe and SiteMap
+    - Post your mockup file to Brightspace along with your Wireframe and SiteMap by next class, Thursday, September 16
 
 - Have you done your learning log this week? Respond to one or several of this week's readings.
 
