@@ -1,4 +1,6 @@
 
+* Review the Flexbox challenge
+
 * Midterm Proposal Presentations
 
 * Midterm Project breakdown:
