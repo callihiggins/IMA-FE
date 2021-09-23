@@ -20,7 +20,7 @@
 
 * Assignment
     * Due Thursday, September 30: Take the mockup you made with your Craigslist redesign assignment and recreate it with HTML and CSS. Don't worry about adding any interactivity such as dropdown menus or linking to any other pages. Upload your zip folder containg an html file, a css file, and any image files you used to Brightspace.
-    * Start to prepare your midterm presentation for Tuesday, 10/5. You will be creating a fully functioning website, styled with CSS. It is up to you if it is multiple pages or just one HTML page, but every design element must be well considered. Next Thursday (September 30th), you will be presenting your midterm ideas and getting critique. Your presentation must include:
+    * Start to prepare your midterm presentation for Thursday, 9/30. You will be creating a fully functioning website, styled with CSS. It is up to you if it is multiple pages or just one HTML page, but every design element must be well considered. Next Thursday (September 30th), you will be presenting your midterm ideas and getting critique. Your presentation must include:
         * A concise elevator pitch: What are you making? Why? Your content should be well considered. You should be able to articulate the need for the website you will be creating. "It looks cool" is not enough of a reason.
         * A wirefame of your home page
         * A mood board of images, inspirations, color palette, etc. that demonstrate the look and feel
