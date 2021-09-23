@@ -13,6 +13,7 @@
     * [CSS Units](https://www.w3schools.com/cssref/css_units.asp)
     * [The Float Property](https://www.w3schools.com/css/css_float.asp)
     * [Inline v. Inline Block](https://alligator.io/css/display-inline-vs-inline-block/)
+    * [All CSS Properties](https://www.w3schools.com/cssref/)
 
 * Exercise:
     * Take your homework from Week 1 (the make believe restaurant page) and add some css to your page.
