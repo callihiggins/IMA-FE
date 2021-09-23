@@ -26,12 +26,7 @@
 * Flexbox in-class challenge
 
 
-* Assignment
-    * Due Tuesday, September 29: Take the mockup you made with your Craigslist redesign assignment and recreate it with HTML and CSS. Don't worry about adding any interactivity such as dropdown menus or linking to any other pages. Upload your zip folder containg an html file, a css file, and any image files you used to Brightspace.
-
 ### Resources
-
-
 * [Flexbox Playground](https://codepen.io/enxaneta/full/adLPwv)
 * [Flexbox Cheat Sheet](https://www.freecodecamp.org/news/flexbox-the-ultimate-css-flex-cheatsheet/)
 * [CSS Tricks - Set Page Background to a Full Image](http://css-tricks.com/perfect-full-page-background-image/)
@@ -53,11 +48,12 @@
 
 * Upload your in-class assignment to Brightspace
 
-* Finish creating the HTML and CSS for your Craigslist Homepage. Try to take advantage of Flexbox.
+* Assignment
+    * Due Tuesday, September 28: Take the mockup you made with your Craigslist redesign assignment and recreate it with HTML and CSS. Try to use Flexbox! Don't worry about adding any interactivity such as dropdown menus or linking to any other pages. Upload your zip folder containg an html file, a css file, and any image files you used to Brightspace.
 
-* Prepare your midterm presentation. You will be creating a fully functioning website, styled with CSS. It is up to you if it is multiple pages or just one HTML page, but every design element must be well considered. Next Thursday (October 1st), you will be presenting your midterm ideas and getting critique. Your presentation must include:
+* Strat to prepare your midterm presentation for Thursday, 9/30. You will be creating a fully functioning website, styled with CSS. It is up to you if it is multiple pages or just one HTML page, but every design element must be well considered. Next Thursday (September 30th), you will be presenting your midterm ideas and getting critique. Your presentation must include:
     * A concise elevator pitch: What are you making? Why? Your content should be well considered. You should be able to articulate the need for the website you will be creating. "It looks cool" is not enough of a reason.
     * A wirefame of your home page
     * A mood board of images, inspirations, color palette, etc. that demonstrate the look and feel
     * A basic sitemap
-    * REMEMBER: Your midterms are due October 14th and will be presented in class on October 14th and October 15th
+    * REMEMBER: Your midterms are due October 14th and will be presented in class on October 14th and October 19th
