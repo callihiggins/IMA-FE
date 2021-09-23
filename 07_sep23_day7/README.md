@@ -6,7 +6,7 @@
     * Angela & Lucy - 11/9
     * Jiaxi & Orriz - 11/16
     * Qashka &  Sarah - 11/23
-    * Rocky & QiQi - 11/30
+    * Ricky & QiQi - 11/30
 
 * Craigslist Redesign Presentations
 
