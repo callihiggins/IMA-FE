@@ -7,6 +7,13 @@
 }
 
 
+.flex-container-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+
 .flex-item {
     background-color: aqua;
     width: 200px;

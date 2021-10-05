@@ -1,8 +1,3 @@
-* Guest Speaker - Carrie Price, Lead Engineer for the New York Times
-
-* Learning Log Presentation
-    * Will
-
 * Learn
     * [Today's slides](https://docs.google.com/presentation/d/1cpkMkDLG-rB9t58p8qbGq6aWZGjLzKiP5fKVustM7nQ/edit?usp=sharing)
     * Pseudo elements
@@ -11,7 +6,9 @@
     * CSS Transitions and Animations
         * [Transitions](https://css-tricks.com/almanac/properties/t/transition/)
         * [Animations](https://css-tricks.com/almanac/properties/a/animation/)
-
+    * [Smooth Scroll](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
+    * [Scroll Snap](https://css-tricks.com/practical-css-scroll-snapping/)
+    * [Parallax](https://www.w3schools.com/howto/howto_css_parallax.asp)
 
 * Homework
     * Due a learning log on CSS Pesudeo Elements/Selectors, Animation or Transition

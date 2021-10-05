@@ -1,0 +1,59 @@
+/*
+ = ======== flexbox ========
+*/
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+/* set the flex-grow and flex-shrink values to 0 and flex-basis value to 250px */
+.card {
+ flex: 0 0 250px;
+}
+
+
+/*
+= ====== visuals =========
+*/
+/* The * selects all elements */
+* {
+ margin: 0;
+ padding: 0;
+}
+
+.cards {
+ min-height: 100px;
+}
+.card {
+ margin: 12px; 
+ background: red;
+ border-radius: 7px;
+ padding: 0 0 50px 0
+}
+.card header {
+ background: #808080;
+ height: 200px;
+ border-radius:  7px 7px 0 0;
+}
+.card ul {
+ list-style: none;
+ padding: 0;
+}
+.card ul li {
+ height: 20px;
+ width: 90%;
+ margin: 10px auto;
+ background: rgba(255,255,255, 0.4);
+}
+.card button {
+ width: 50%;
+ height: 40px;
+ border: 0;
+ margin-left: 12px;
+ border-radius: 7px;
+}
+/* .card--big {
+ transform: scaleX(1.12)
+} */
