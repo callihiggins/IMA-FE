@@ -9,7 +9,7 @@
     * Terms to know: Repository/Repo, Commit, Push, Main
     * [Github Pages](https://pages.github.com/) (available under Settings in your Repo)
         * When you push your code for the first time from Github Desktop, make sure you uncheck "Keep this code private"
-* [Media Queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
+* [Media Queries](https://css-tricks.com/a-complete-guide-to-css-media-queries/)
     * Mobile Design considerations
         * Minimize cognitive load even more
         * Remove anything non-essential

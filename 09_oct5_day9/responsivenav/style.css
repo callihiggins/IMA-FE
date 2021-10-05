@@ -16,9 +16,26 @@
     color: darkgray;
 }
 
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: space-between;
+}
+
+.card {
+  flex-basis: 20%;
+  height: 200px;
+  background-color: aquamarine;
+}
+
 /* On screens that are 600px wide or less, make the menu links stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .topnav {
     flex-direction: column;
+  }
+
+  .card {
+    flex-basis: 45%;
   }
 }
