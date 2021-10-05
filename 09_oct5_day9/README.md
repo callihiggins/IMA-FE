@@ -1,5 +1,6 @@
 * Learning Log Presentations
-    *Chris & Damon
+    * Chris
+    * Damon
 * Github
     * Git vs. Github
     * Sign up for a Github account
@@ -8,7 +9,7 @@
     * Terms to know: Repository/Repo, Commit, Push, Main
     * [Github Pages](https://pages.github.com/) (available under Settings in your Repo)
         * When you push your code for the first time from Github Desktop, make sure you uncheck "Keep this code private"
-* Media Queries
+* [Media Queries](https://polypane.app/blog/the-complete-guide-to-css-media-queries/)
     * Mobile Design considerations
         * Minimize cognitive load even more
         * Remove anything non-essential
@@ -41,4 +42,4 @@
 
 * Upload your Media Query in-class challenge files to Brightspace
 
-* *Due Thursday 10/7:* Take your Craigslist redesign HTML & CSS assignment and create three breakpoints. Include one for small screens, medium screens and large screens. Push to Github and publish this on Github Pages. Submit BOTH the link to your repository and Github Pages link on Brightspace
+* *Due Tuesday 10/12 (NOTE- we do not have class this day):* Take your Craigslist redesign HTML & CSS assignment and create three breakpoints. Include one for small screens, medium screens and large screens. Push to Github and publish this on Github Pages. Submit BOTH the link to your repository and Github Pages link on Brightspace
