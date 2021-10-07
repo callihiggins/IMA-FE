@@ -1,4 +1,4 @@
-/* .colorfulBox {
+.colorfulBox {
   width: 400px;
   height: 400px;
   margin: 0 auto;
@@ -9,7 +9,7 @@
   animation-iteration-count: infinite;
 
   margin-bottom: 30px;
-} */
+}
 
 @keyframes animateBackgroundColor {
   from {background-color: red;}

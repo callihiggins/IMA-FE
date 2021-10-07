@@ -1,0 +1,22 @@
+.background-design {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.content {
+  width: 600px;
+  margin: 100px auto 0;
+}
+
+@keyframes spinMe {
+  from {transform: rotate(0);}
+  to {transform: rotate(360deg);}
+}
+
+.animate-me {
+  position: relative;
+  animation-name: spinMe;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}

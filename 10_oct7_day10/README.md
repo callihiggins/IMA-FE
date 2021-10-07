@@ -9,8 +9,10 @@
     * [Smooth Scroll](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
     * [Scroll Snap](https://css-tricks.com/practical-css-scroll-snapping/)
     * [Parallax](https://www.w3schools.com/howto/howto_css_parallax.asp)
+    * Animating SVG's
 
 * Homework
+    * Finish your Craigslist responsive design assignment. This is due Tuesday, Otcober 12th (however we do NOT have class that day)
     * Due a learning log on CSS Pesudeo Elements/Selectors, Animation or Transition
     * Work on your midterm
 
