@@ -5,6 +5,7 @@ Add your name to this list for help: https://docs.google.com/document/d/1UNtotJJ
  * Midterm Project breakdown:
     * Midterm Proposal Presentation: 10 points 
     * Valid HTML and CSS: 30 points
+        * HTML and CSS Should be in separate files
     * Responsive Design: 20 points total
         * 10 points for thoughtful design
         * 10 points for Responsive HTML/CSS implementation
