@@ -2,7 +2,7 @@ Midterm workshop day!
 
 Add your name to this list for help: https://docs.google.com/document/d/1UNtotJJ3e5Friwf5mP5QucNfRWnClSh1us22FSynX9I/edit?usp=sharing
 
- Midterm Project breakdown:
+ * Midterm Project breakdown:
     * Midterm Proposal Presentation: 10 points 
     * Valid HTML and CSS: 30 points
     * Responsive Design: 20 points total
