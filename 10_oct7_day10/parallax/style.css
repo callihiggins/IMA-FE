@@ -11,7 +11,18 @@
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+
+  background: linear-gradient(
+0deg, rgba(20,20,20,1) 0%, rgba(20,20,20,0) 80%), url(img_parallax.jpg) center center / cover fixed;
 }
+
+.parallax-new-image {
+  /* The image used */
+  background-image: url("photo-1560851691-ebb64b584d3d.jpeg");
+}
+
+
+
 
 .scrollable-div {
   height:100vh;
