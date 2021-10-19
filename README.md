@@ -20,9 +20,12 @@ To contact professor: on Discord @calli, email calli@nyu.edu
 
 To contact our GA, Mingxi: on Discord @Mingxi, email mx657@nyu.edu
 
+
 NOTE: The preferred communication tool for this course is Discord. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet for office hours. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
 
-Office hours are by appointment only. You may set up an appointment [here.](https://calendar.google.com/calendar/selfsched?sstoken=UUtmcjc1d2lnWE9xfGRlZmF1bHR8YWQyNmFhNWIxNTc3M2NiNWRmOWE2NDM1MTM0ODE5NTU). *Please note, the appointments visually appear to be 30 minute time slots but are actually for 15 minutes. Feel free to book two if you think you need the extra time.*
+Office hours are by appointment only. 
+ * You may set up an appointment with Calli Here [here.](https://calendar.google.com/calendar/selfsched?sstoken=UUtmcjc1d2lnWE9xfGRlZmF1bHR8YWQyNmFhNWIxNTc3M2NiNWRmOWE2NDM1MTM0ODE5NTU). *Please note, the appointments visually appear to be 30 minute time slots but are actually for 15 minutes. Feel free to book two if you think you need the extra time.* 
+* You may set up an appointment with Calli Here [here.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUNEWHlPa0VabXphfGRlZmF1bHR8M2Y4YzE3YTE3N2Q3MTY1ZjNkMTVkYWNiMDkyZTYyNTg).
 
 
 ## A note about this syllabus
