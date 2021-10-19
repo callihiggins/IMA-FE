@@ -1,16 +1,10 @@
+## Final Project Presentation
 
-## In class Exercise
-
-Work with a partner in a breakout room to do the following:
-
-  * Sign up for a [NYT API Key](https://developer.nytimes.com/get-started) (make sure both of you do this)
-  * Pick a [NYT API](https://developer.nytimes.com/apis) you'd like to work with
-  * Decide what you want to search for in this API. Give your page a heading and a description of the data being displayed.
-  * Use Fetch to get data that populates your html
-  * Give that HTML some CSS
-  * Make sure you both leave class with a copy of your code. If you didn't finish, complete the assignment for homework (feel free to finish it on your own or continue to work together).
-  * Each of you should upload to Brightspace via a Github link.
+* Start by adding the PDF of your presentation to the final presentation channel in Discord
+* For each person who presents, one other person will be in charge of taking notes of the feedback
+* Add the feedback as a comment (or several) to the PDF in Discord
 
 ## Homework
-  * Finish your in-class assignment, if neccessary
-  * Decide what API(s) you want to use for your final project. Play around with a few that interest you and try to access them via a Fetch call
+
+* If you think of feedback for someone else, add it as a comment to their PDF in Discord
+* Keep working on your final! Aim to have worked through your data fetching by next Tuesday.

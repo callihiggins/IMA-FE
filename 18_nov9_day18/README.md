@@ -1,14 +1,36 @@
-## Async Election Day
+* Learning Log Presentations:
+  * Angela
+  * Lucy
 
-* As we discussed on Thursday, we're going to have class asynchronous today to give everyone time to vote and because some of us may have a hard time concentrating today
-First and foremost, if you are able to vote in this country, PLEASE do so!
+* jQuery
+  * [Selectors](https://www.w3schools.com/jquery/jquery_ref_selectors.asp)
+    * $()
+  * [HTML /CSS Methods](https://www.w3schools.com/jquery/jquery_ref_html.asp)
+    * before()
+    * after()
+    * css()
+    * attr()
+    * val()
+    * html()
+    * text()
+    * addClass()
+    * removecClass()
+    * toggleClass()
+  * [Events](https://www.w3schools.com/jquery/jquery_ref_events.asp)
+    * click()
+    * hover()
+    * mouseDown()
+  * [Traversing](https://www.w3schools.com/jquery/jquery_ref_traversing.asp)
+    * children()
+    * parent()
+    * next()
+    * each()
 
-* Once you voted or encouraged someone else to vote, enjoy this fun app the NYT put together: [Election Stress Relief](https://www.nytimes.com/interactive/2020/10/30/style/election-stress-relief.html)
+* Using Data objects to populate HTML
+* Branches in Github Desktop
 
-* Check out [Geoguesser](https://www.geoguessr.com/) (you could totally make this in this course)
-
-* Code along with [Build a Meditation App](https://www.youtube.com/watch?v=oMBXdZzYqEk)
-  * Assets are available [here](https://github.com/developedbyed/meditation-app/archive/master.zip)
-
-* See you on Thursday for Zoom class!
-
+**Homework**
+  * Do a learning log on jquery! Here's a [tutorial](https://www.w3schools.com/jquery/) to start with
+  * Assignment: your choice! Turn into Brightspace either:
+    * Create your own jquery playground with at least  5 DOM elements, 3 listeners and 2 functions besides initialization. Link to your Github Repo AND Github Pages URL.
+    * Use Github Desktop to create a new branch in your midterm project. Add at least 3 listeners and 2 functions to create an effect on your page. Link to the branch's Github Repo.

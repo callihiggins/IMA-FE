@@ -1,4 +1,6 @@
-* Learning Log Presentation: Sydney
+* Learning Log Presentations: 
+  * Samantha
+  * Yeji
 
 * Review
   * Arrays, Objects, OOP
@@ -33,5 +35,5 @@
         * How many elements are inside of your first ID
         * How many elements are inside of your second ID
         * Each function should update one of the three empty divs with this information
-    * Submit a link to your GITHUB Repo for this code on Brightspace by the start of our next class Thursday, 10/29.
+    * Submit a link to your GITHUB Repo for this code on Brightspace by the start of our next class Thursday, 11/4.
 

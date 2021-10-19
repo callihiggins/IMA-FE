@@ -99,7 +99,6 @@ By the end of the course, students will be able to:
 * Week 6
   * CSS Transitions
   * CSS Animations
-  * Guest speakers
 * Week 7
   * Midterm Presentations
 * Week 8
@@ -109,20 +108,17 @@ By the end of the course, students will be able to:
   * Javscript + Dom Manipulation
 * Week 10
   * jQuery
-* Week 11
   * Data with Public APIs
-* Week 12
+* Week 11
   * Review APIs
   * Final Project Proposals
-* Week 13
-  * Intro to React
+* Week 12
+  * CMS APIs
   * Thanksgiving
-* Week 14
+* Week 13
   * Final Project Workshops
-* Week 15
+* Week 14
   * Final Project Presentations
-
-
 
 ### Software Requirements
 * A modern laptop:
