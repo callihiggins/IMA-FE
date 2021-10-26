@@ -1,4 +1,6 @@
-## Final Project Presentation
+* Gust Speaker: Natalie Raimondi, Product Designer at the New York Times
+
+## Final Project Presentation Day 1
 
 * Start by adding the PDF of your presentation to the final presentation channel in Discord
 * For each person who presents, one other person will be in charge of taking notes of the feedback
@@ -7,4 +9,4 @@
 ## Homework
 
 * If you think of feedback for someone else, add it as a comment to their PDF in Discord
-* Keep working on your final! Aim to have worked through your data fetching by next Tuesday.
+* Start your midterms- aim to have your basic html and css finished by next class even if you are using dummy data

@@ -3,7 +3,7 @@
   * QiQi
 
 ## More APIs!
-
+  * [SheetsDB](https://sheetdb.io/)
   * [Contentful](https://www.contentful.com/)
     * [Content Delivery API](https://www.contentful.com/developers/docs/references/content-delivery-api/#/introduction/authentication)
     * [Content Model](https://www.contentful.com/developers/docs/concepts/data-model/)
@@ -13,7 +13,7 @@
 
 ## Homework
 
-// To-do : Make assignment in Brightspace
+To-do : Make assignment in Brightspace
 
 User either Sheets API or Contentful to build a page that shows "projects". Try to use a mustache template
 

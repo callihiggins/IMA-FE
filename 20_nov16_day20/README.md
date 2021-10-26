@@ -2,8 +2,6 @@
   * Jiaxi
   * Orriz
 
-* Gust Speaker: Natalie Raimondi, Product Designer at the New York Times
-
 ## In class Exercise
 
 Work with a partner to do the following:
@@ -18,6 +16,6 @@ Work with a partner to do the following:
 
 ## Homework
 
-  * Finish your in-class assignment, if neccessary
+  * Finish your in-class assignment and upload to Brighspace by Tuesday, November 23
   * Decide what API(s) you want to use for your final project. Play around with a few that interest you and try to access them via a Fetch call
   * *For Thursday, November 18*: Prepare a presesntation for your Final Project idea. Your presentation should be shareable as a PDF and include a moodboard, site map, and wireframes. The final assignment is similar to the midterm in that you are expected to have a complete idea and a reason for why you want to make this. You are responsible for making a web application that is thoughtfully designed and built for a responsive experience and utitlizes at least one API to populate data or introduce a service to your app. This API can be from a content management system (CMS) powering a personal portfolio. You are allowed to continue work on your midterm project (but I expect to see a significant update) or pivot to a new idea. 
