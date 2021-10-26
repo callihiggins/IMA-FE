@@ -1,3 +1,4 @@
+* Exercises from Tuesday
 * Arrays
     * Arrays & Loops
     * Push, Pop, Slice
@@ -9,4 +10,4 @@
     * In-class exercise: [Bank accounts](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md#modeling-a-bank-account)
 
   ## Homework
-  * Read [The Javascript Way](https://github.com/thejsway/thejsway) Chapters 6 - 8. Do at least two exercises from each chapter.
+  * Read [The Javascript Way](https://github.com/thejsway/thejsway) Chapters 6 - 8. Do at least two exercises from each chapter. Upload a github link to a js file with the exercies. 
