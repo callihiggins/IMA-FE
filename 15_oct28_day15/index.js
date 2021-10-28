@@ -6,7 +6,7 @@ Looping over arrays
 const firstNames = ['john', 'paul', 'george', 'ringo'];
 const lastNames = ['lennon', 'mccartney', 'harrison', 'starr'];
 
-const howManyBeatles = function (names) {
+const howManyBeatles = names => {
 	return names.length;
 };
 
@@ -31,13 +31,13 @@ const simpleBeatlesObject = {
 	'drums': 'Ringo Starr'
 };
 
-const printNames = function () {
+const printNames = () => {
 	for (person in simpleBeatlesObject) {
 		console.log(simpleBeatlesObject[person]);
 	}
 }
 
-const whoPlayedDrums = function () {
+const whoPlayedDrums = () => {
 	return simeBeatleObject.drums;
 }
 
@@ -102,7 +102,7 @@ const detailedBandObject = {
 	}
 };
 
-const listBeatlesAlbums = function () {
+const listBeatlesAlbums = () => {
 	const albums = detailedBandObject.beatles.albums;
 	for (let i = 0; i < albums.length; i++) {
 		debugger;
