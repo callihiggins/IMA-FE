@@ -7,9 +7,9 @@
     * Returns
     * Fat arrow / annonymous 
 * Arrays
-    * Arrays & Loops
-    * ForEach, Map
     * Push, Pop, Slice, Splice, Shift, Unshift
+    * Arrays & Loops
+    * ForEach, Map, Find, Filter
     * Code along: [List of Words](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter07.md#list-of-words)
 * Objects
     * Key/Value pairs
