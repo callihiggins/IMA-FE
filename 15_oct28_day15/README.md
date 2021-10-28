@@ -17,4 +17,4 @@
     * In-class exercise: [Bank accounts](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter06.md#modeling-a-bank-account)
 
 ## Homework
-  * Read [The Javascript Way](https://github.com/thejsway/thejsway) Chapters 6 - 8. Do at least two exercises from each chapter (not including ones we went over in class). Upload a github link to a js file with the exercies, including the in-class 
+  * Read [The Javascript Way](https://github.com/thejsway/thejsway) Chapters 6 - 8. Do at least two exercises from each chapter (not including ones we went over in class). Upload a github link to a js file with the exercies, including the in-class Bank Account exercise.
