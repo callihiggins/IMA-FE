@@ -4,6 +4,7 @@
 
 * Review
   * Arrays, Objects, OOP
+  * debugger;
 
 * New things
   * [Slides from today](https://docs.google.com/presentation/d/1UiahbsgTToZ7IXuFFS-7V7TwXvUwDM9dOGI-vxKBMoY/edit?usp=sharing)
@@ -30,7 +31,7 @@
       * Wrap some of these inside of `<div>` tags. Assign an ID to at least two of your `<div>` tags.
       * Build three buttons that will run a function on click.
       * Add three empty divs to the bottom of your page with unique IDs.
-      * Now, create at least three functions that will run on click:
+      * Now, create at least three functions that will run on their respective button click:
         * How many of the same HTML elements are on the page. (For example, if you included 10 `<p>`  tags, it should return a statement that says something like, "There are 10 paragraph tags on this page.")
         * How many elements are inside of your first ID
         * How many elements are inside of your second ID
