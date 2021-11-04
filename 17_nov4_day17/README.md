@@ -38,7 +38,8 @@
 
 ## Homework
 
-* [Read up on fat arrow functions](https://www.freecodecamp.org/news/learn-es6-the-dope-way-part-ii-arrow-functions-and-the-this-keyword-381ac7a32881/)
+* [Read about fat arrow functions](https://www.freecodecamp.org/news/learn-es6-the-dope-way-part-ii-arrow-functions-and-the-this-keyword-381ac7a32881/)
+* [Read about Forms](https://github.com/thejsway/thejsway/blob/master/manuscript/chapter17.md)
 * When was the last time you did a Learning Log? Pick a Javascript one!
 * Use Github Desktop to create a new branch in your midterm project. Add at least 3 listeners and 2 functions to create an effect on your page. Link to the branch's Github Repo.
 
