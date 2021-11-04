@@ -10,6 +10,8 @@ document.getElementById("main").innerHTML = "<h3> Hello World Smaller</h3>";
 const paragraphs = document.getElementsByTagName("p");
 console.log(paragraphs[0].innerText);
 
+const paaragraphArray = Array.from(paragraphs)
+
 const inputs =  document.getElementsByClassName("inputItem");
 inputs[1].classList.add('pink');
 
@@ -40,6 +42,7 @@ document.getElementById('submitLetter').addEventListener('click', e => {
 })
 
 document.getElementById('googleLink').addEventListener('click', e => {
+  debugger;
   e.preventDefault();
   console.log('you clicked the google link')
 })
