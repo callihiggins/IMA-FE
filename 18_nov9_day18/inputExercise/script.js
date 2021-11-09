@@ -50,7 +50,6 @@ const app = {
 
     //     // conditional opertor: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
     //     input.type === 'checkbox' ? input.classList.add('checkBoxError') : input.classList.add('error')
-        
     //     input.classList.add('error');
     //     hasError = true;
     //   } else if (input.classList.contains('error')) {
