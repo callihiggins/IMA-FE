@@ -1,19 +1,30 @@
 const app = {
-  initialize: function () {
+  initialize: () => {
+    
+    app.fetchBeatles();
+    
     $('.listSpaceMembers').click(function (e) {
       app.fetchSpaceMembers();
     });
 
   },
 
-  fetchSpaceMembers: function() {
+  fetchBeatles: () => {
+    fetch('data.json?v2')
+      .then(response => response.json())
+      .then(response => {
+        debugger;
+      })
+  },
+
+  fetchSpaceMembers: () => {
     fetch('http://api.open-notify.org/astros.json')
       .then(response => response.json())
       .then(response => app.revealSpaceMembers(response))
       .catch(error => console.log(error));
   },
 
-  revealSpaceMembers: function(response) {
+  revealSpaceMembers: response => {
     $('.spaceMembers').html(`There are ${response.number} people in space right now`);
   },
 }
