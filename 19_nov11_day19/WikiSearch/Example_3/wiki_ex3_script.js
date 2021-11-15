@@ -6,7 +6,7 @@ var app = {
 		$("#search").click(function(){
 			console.log("Clicked search");
 			//Clear the div
-			$("#resultsTarget").html("");
+			$("#results").html("");
 			//Use jQuery to get the value of the 'query' input box
 			var newSearchTerm = $("#query").val();
 			console.log(newSearchTerm);

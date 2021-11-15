@@ -1,4 +1,7 @@
 ## More APIs!
+  * [Contentful](https://www.contentful.com/)
+    * [Content Delivery API](https://www.contentful.com/developers/docs/references/content-delivery-api/#/introduction/authentication)
+    * [Content Model](https://www.contentful.com/developers/docs/concepts/data-model/)
   * [Spotify](https://developer.spotify.com/)
 
 
