@@ -2,18 +2,18 @@ const app = {
 
   apiUrl: 'https://sheetdb.io/api/v1/x8s3c680taot2',
 
-  initialize: function() {
-    this.getTheData();
-    this.attachListeners();
+  initialize: () => {
+    app.getTheData();
+    app.attachListeners();
   },
 
-  attachListeners: function() {
+  attachListeners: () => {
     $('.submit').click(e => {
-      this.addSomeone();
+      app.addSomeone();
     })
   },
 
-  addSomeone: function() {
+  addSomeone: () => {
     const data = {
       firstName: $('.firstName').val(),
       lastName: $('.lastName').val(),
@@ -22,7 +22,7 @@ const app = {
 
     const requestBody = {data: [data]};
 
-    fetch(this.apiUrl, {
+    fetch(app.apiUrl, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
@@ -31,12 +31,12 @@ const app = {
     })
     .then(response => response.json())
     .then(response => {
-      debugger;
+      app.getTheData();
     })
   },
 
   getTheData: function () {
-    fetch(this.apiUrl)
+    fetch(app.apiUrl)
     .then(response => response.json())
     .then (response => {
       response.forEach(entry => {
