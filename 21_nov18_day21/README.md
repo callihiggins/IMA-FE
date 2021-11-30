@@ -1,5 +1,3 @@
-* Gust Speaker: Natalie Raimondi, Product Designer at the New York Times
-
 ## Final Project Presentation Day 1
 
 ## Homework

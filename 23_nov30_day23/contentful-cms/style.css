@@ -33,6 +33,7 @@ body {
   width: 100%;
 }
 
+
 .projectTitle {
   width: calc(70% - 40px);
   font-size: 24px;
@@ -42,4 +43,9 @@ body {
 .description {
   width: 100%;
   padding: 20px;
+}
+
+.projectDescription img {
+  width: 30%;
+  height: auto;
 }
