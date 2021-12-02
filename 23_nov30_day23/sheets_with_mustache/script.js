@@ -2,7 +2,7 @@ const app = {
 
   apiUrl: 'https://sheetdb.io/api/v1/x8s3c680taot2',
 
-  personTemplate: `<div class="entry">{{entry.firstName}} {{entry.lastName}} {{entry.jobTitle}}</div>`,
+  personTemplate: '<div class="entry">{{firstName}} {{lastName}} {{jobTitle}}</div>',
 
   initialize: () => {
     app.getTheData();
@@ -43,6 +43,11 @@ const app = {
     .then (response => {
       response.forEach(entry => {
           // render the template with the data
+          const data = {
+            firstName: entry.firstName,
+            lastName: entry.lastName,
+            jobTitle: entry.jobTitle
+          }
           const rendered = Mustache.render(app.personTemplate, entry);
           // add the element to the container
           $('.container').append(rendered);

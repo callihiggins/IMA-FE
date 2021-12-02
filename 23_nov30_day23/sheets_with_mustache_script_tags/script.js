@@ -40,15 +40,23 @@ const app = {
     fetch(app.apiUrl)
     .then(response => response.json())
     .then (response => {
+      debugger;
       response.forEach(entry => {
+        debugger;
          app.renderTemplate(entry);
       })
     });
   },
 
   renderTemplate: entry => {
-    var template = $('#personTemplate').html();
-    var rendered = Mustache.render(template, entry);
+    const template = $('#personTemplate').html();
+    const data = {
+      firstName: entry.firstName,
+      lastName: entry.lastName,
+      jobTitle: entry.jobTitle
+    }
+    debugger;
+    const rendered = Mustache.render(template, data);
     $('.container').append(rendered);
   },
 
