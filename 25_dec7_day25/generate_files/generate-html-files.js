@@ -10,13 +10,10 @@ var client = contentful.createClient({
   accessToken: "gpwHzQ87ZadBhVqj4PYizaRiy_0LRFwHcZul_kTCM28"
 });
 
-
 client.getEntries().then(response => {
-  response.items.forEach((item, index) => {
+  response.items.forEach(item => {
     // manually set the name of the file using the project's slug field
     const fileName = `${item.fields.slug}.html`;
-    // or, just name them as their index number in the array
-    // const fileName  = `${index}.html`;
     const { id } = item.sys;
     fs.writeFile(fileName, buildHtml(id), err => {if (err) console.log(err)});
   })
