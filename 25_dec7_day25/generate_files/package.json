@@ -1,0 +1,14 @@
+{
+  "name": "generate_files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate-html-files.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "contentful": "^9.1.5"
+  }
+}
