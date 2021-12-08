@@ -10,7 +10,7 @@ const app = {
   },
 
   fetchBeatles: () => {
-    fetch('data.json?v2')
+    fetch('data.json')
       .then(response => response.json())
       .then(response => {
         debugger;

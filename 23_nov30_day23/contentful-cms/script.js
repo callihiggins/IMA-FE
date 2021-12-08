@@ -15,18 +15,16 @@ const app = {
     const options = {
       renderNode: {
           'embedded-asset-block': ({ data: { target: { fields }}}) => {
-            debugger;
             return `<img src="${fields.file.url}" height="${fields.file.details.image.height}" width="${fields.file.details.image.width}" alt="${fields.description}"/>`;
           }
       }
     };
     app.client.getEntry(entry).then(project => {
-      debugger;
       const projectData = {
         title: project.fields.title,
         imageUrl: `http:${project.fields.image.fields.file.url}`,
         imageTitle: project.fields.image.fields.title,
-        description: documentToHtmlString(project.fields.description, options) // passing in the options obj i created above for the bug
+        description:  project.fields.description ? documentToHtmlString(project.fields.description, options) : '' // passing in the options obj i created above for the bug
       };
       // load the template for this item from a local file
       fetch('projectPage.mustache')
@@ -50,7 +48,6 @@ const app = {
       // go through each one
       response.items.forEach(project => {
         // pull out the data you're interested in
-        debugger;
         const projectData = {
           title: project.fields.title,
           imageUrl: `http:${project.fields.image.fields.file.url}`,
@@ -68,7 +65,7 @@ const app = {
     // first make sure we have our template loaded
     // i can use the word await along with async to pause the program until this function is finished
     const template = await app.loadTemplateForProjectOnHome();
-    // fetch all entries
+    // fetch entries with a specfic tag
     app.client.getEntries({'metadata.tags.sys.id[in]': tag}).then(response => {
       // go through each one
       response.items.forEach(project => {
